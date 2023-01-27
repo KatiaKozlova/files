@@ -1,0 +1,623 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = indonesian-csui-ud-2.10-220711
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bahasa adalah kemampuan yang dimiliki manusia untuk berkomunikasi dengan manusia lainnya menggunakan tanda, misalnya kata dan gerakan.
+1	Bahasa	bahasa	PROPN	NN	_	3	nsubj	_	TokenRange=0:6
+2	adalah	adalah	AUX	VBZ	_	3	cop	_	TokenRange=7:13
+3	kemampuan	mampu	NOUN	NN	Number=Sing	0	root	_	TokenRange=14:23
+4	yang	yang	PRON	IN	PronType=Rel	5	nsubj:pass	_	TokenRange=24:28
+5	dimiliki	milik	VERB	VB	Mood=Ind|Voice=Pass	3	acl:relcl	_	TokenRange=29:37
+6	manusia	manusia	NOUN	NN	Number=Sing	5	obl	_	TokenRange=38:45
+7	untuk	untuk	SCONJ	IN	_	8	mark	_	TokenRange=46:51
+8	berkomunikasi	komunikasi	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	TokenRange=52:65
+9	dengan	dengan	ADP	IN	_	10	case	_	TokenRange=66:72
+10	manusia	manusia	NOUN	NN	Number=Sing	8	obl	_	TokenRange=73:80
+11-12	lainnya	_	_	_	_	_	_	_	TokenRange=81:88
+11	lain	lain	ADJ	JJ	_	10	amod	_	_
+12	nya	nya	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+13	menggunakan	guna	VERB	VB	Mood=Ind|Voice=Act	8	advcl	_	TokenRange=89:100
+14	tanda	tanda	NOUN	NN	Number=Sing	13	obj	_	SpaceAfter=No|TokenRange=101:106
+15	,	,	PUNCT	,	_	14	punct	_	TokenRange=106:107
+16	misalnya	misalnya	SCONJ	IN	_	17	mark	_	TokenRange=108:116
+17	kata	kata	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=117:121
+18	dan	dan	CCONJ	CC	_	19	cc	_	TokenRange=122:125
+19	gerakan	gerak	NOUN	NN	Number=Sing	17	conj	_	SpaceAfter=No|TokenRange=126:133
+20	.	.	PUNCT	.	_	3	punct	_	TokenRange=133:134
+
+# sent_id = 2
+# text = Kajian ilmiah bahasa disebut ilmu linguistik.
+1	Kajian	kaji	NOUN	NN	Number=Sing	4	nsubj:pass	_	TokenRange=135:141
+2	ilmiah	ilmiah	ADJ	JJ	_	1	amod	_	TokenRange=142:148
+3	bahasa	bahasa	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=149:155
+4	disebut	sebut	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=156:163
+5	ilmu	ilmu	NOUN	NN	Number=Sing	4	obl	_	TokenRange=164:168
+6	linguistik	linguistik	ADJ	JJ	_	5	amod	_	SpaceAfter=No|TokenRange=169:179
+7	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n|TokenRange=179:180
+
+# newpar
+# sent_id = 3
+# text = Perkiraan jumlah bahasa di dunia beragam antara 6.000–7.000 bahasa.
+1	Perkiraan	kira	NOUN	NN	Number=Sing	6	nsubj	_	TokenRange=184:193
+2	jumlah	jumlah	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=194:200
+3	bahasa	bahasa	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=201:207
+4	di	di	ADP	IN	_	5	case	_	TokenRange=208:210
+5	dunia	dunia	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=211:216
+6	beragam	ragam	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=217:224
+7	antara	antara	ADP	IN	_	11	case	_	TokenRange=225:231
+8	6.000	6.000	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|TokenRange=232:237
+9	–	–	PUNCT	:	_	10	punct	_	SpaceAfter=No|TokenRange=237:238
+10	7.000	7.000	NUM	CD	NumType=Card	8	flat	_	TokenRange=238:243
+11	bahasa	bahasa	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=244:250
+12	.	.	PUNCT	.	_	6	punct	_	TokenRange=250:251
+
+# sent_id = 4
+# text = Namun, perkiraan tepatnya bergantung pada suatu perubahan sembarang yang mungkin terjadi antara bahasa dan dialek.
+1	Namun	namun	CCONJ	CC	_	6	cc	_	SpaceAfter=No|TokenRange=252:257
+2	,	,	PUNCT	,	_	6	punct	_	TokenRange=257:258
+3	perkiraan	kira	NOUN	NN	Number=Sing	6	nsubj	_	TokenRange=259:268
+4-5	tepatnya	_	_	_	_	_	_	_	TokenRange=269:277
+4	tepat	tepat	ADJ	JJ	_	3	amod	_	_
+5	nya	nya	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+6	bergantung	gantung	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=278:288
+7	pada	pada	ADP	IN	_	9	case	_	TokenRange=289:293
+8	suatu	suatu	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=294:299
+9	perubahan	ubah	NOUN	NN	Number=Sing	6	obl	_	TokenRange=300:309
+10	sembarang	sembarang	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=310:319
+11	yang	yang	PRON	IN	PronType=Rel	13	nsubj:pass	_	TokenRange=320:324
+12	mungkin	mungkin	AUX	MD	_	13	aux	_	TokenRange=325:332
+13	terjadi	jadi	VERB	VB	Mood=Ind|Voice=Pass	9	acl:relcl	_	TokenRange=333:340
+14	antara	antara	ADP	IN	_	15	case	_	TokenRange=341:347
+15	bahasa	bahasa	NOUN	NN	Number=Sing	13	obl	_	TokenRange=348:354
+16	dan	dan	CCONJ	CC	_	17	cc	_	TokenRange=355:358
+17	dialek	dialek	NOUN	NN	Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=359:365
+18	.	.	PUNCT	.	_	6	punct	_	TokenRange=365:366
+
+# sent_id = 5
+# text = Bahasa alami adalah bicara atau bahasa isyarat, tetapi setiap bahasa dapat disandikan ke dalam media kedua menggunakan stimulus audio, visual, atau taktil, sebagai contohnya, tulisan grafis, braille, atau siulan.
+1	Bahasa	bahasa	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=367:373
+2	alami	alami	ADJ	JJ	_	1	amod	_	TokenRange=374:379
+3	adalah	adalah	AUX	VBZ	_	4	cop	_	TokenRange=380:386
+4	bicara	bicara	NOUN	NN	Number=Sing	0	root	_	TokenRange=387:393
+5	atau	atau	CCONJ	CC	_	6	cc	_	TokenRange=394:398
+6	bahasa	bahasa	NOUN	NN	Number=Sing	4	conj	_	TokenRange=399:405
+7	isyarat	isyarat	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=406:413
+8	,	,	PUNCT	,	_	13	punct	_	TokenRange=413:414
+9	tetapi	tetapi	CCONJ	CC	_	13	cc	_	TokenRange=415:421
+10	setiap	setiap	DET	DT	PronType=Tot	11	det	_	TokenRange=422:428
+11	bahasa	bahasa	NOUN	NN	Number=Sing	13	nsubj:pass	_	TokenRange=429:435
+12	dapat	dapat	AUX	MD	_	13	aux	_	TokenRange=436:441
+13	disandikan	sandi	VERB	VB	Mood=Ind|Voice=Pass	4	conj	_	TokenRange=442:452
+14	ke	ke	ADP	IN	_	16	case	_	TokenRange=453:455
+15	dalam	dalam	NOUN	IN	Number=Sing	16	nmod:lmod	_	TokenRange=456:461
+16	media	media	NOUN	NN	Number=Sing	13	obl	_	TokenRange=462:467
+17	kedua	kedua	ADJ	JJ	NumType=Ord	16	amod	_	TokenRange=468:473
+18	menggunakan	guna	VERB	VB	Mood=Ind|Voice=Act	13	advcl	_	TokenRange=474:485
+19	stimulus	stimulus	NOUN	NN	Number=Sing	18	obj	_	TokenRange=486:494
+20	audio	audio	NOUN	NN	Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=495:500
+21	,	,	PUNCT	,	_	22	punct	_	TokenRange=500:501
+22	visual	visual	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=502:508
+23	,	,	PUNCT	,	_	25	punct	_	TokenRange=508:509
+24	atau	atau	CCONJ	CC	_	25	cc	_	TokenRange=510:514
+25	taktil	taktil	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=515:521
+26	,	,	PUNCT	,	_	19	punct	_	TokenRange=521:522
+27	sebagai	bagai	ADP	IN	_	28	case	_	TokenRange=523:530
+28	contohnya	contohnya	NOUN	NN	Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=531:540
+29	,	,	PUNCT	,	_	30	punct	_	TokenRange=540:541
+30	tulisan	tulis	NOUN	NN	Number=Sing	28	appos	_	TokenRange=542:549
+31	grafis	grafis	NOUN	NN	Number=Sing	30	nmod	_	SpaceAfter=No|TokenRange=550:556
+32	,	,	PUNCT	,	_	33	punct	_	TokenRange=556:557
+33	braille	braille	X	FW	Foreign=Yes	30	conj	_	SpaceAfter=No|TokenRange=558:565
+34	,	,	PUNCT	,	_	36	punct	_	TokenRange=565:566
+35	atau	atau	CCONJ	CC	_	36	cc	_	TokenRange=567:571
+36	siulan	siulan	NOUN	NN	Number=Sing	30	conj	_	SpaceAfter=No|TokenRange=572:578
+37	.	.	PUNCT	.	_	4	punct	_	TokenRange=578:579
+
+# sent_id = 6
+# text = Hal ini karena bahasa manusia bersifat independen terhadap modalitas.
+1	Hal	hal	NOUN	NN	Number=Sing	0	root	_	TokenRange=580:583
+2	ini	ini	DET	DT	PronType=Dem	1	det	_	TokenRange=584:587
+3	karena	karena	SCONJ	IN	_	6	mark	_	TokenRange=588:594
+4	bahasa	bahasa	NOUN	NN	Number=Sing	6	nsubj	_	TokenRange=595:601
+5	manusia	manusia	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=602:609
+6	bersifat	sifat	VERB	VB	Mood=Ind|Voice=Act	1	acl:relcl	_	TokenRange=610:618
+7	independen	independen	ADJ	JJ	_	6	xcomp	_	TokenRange=619:629
+8	terhadap	hadap	ADP	IN	_	9	case	_	TokenRange=630:638
+9	modalitas	modalitas	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=639:648
+10	.	.	PUNCT	.	_	1	punct	_	TokenRange=648:649
+
+# sent_id = 7
+# text = Sebagai konsep umum, "bahasa" bisa mengacu pada kemampuan kognitif untuk dapat mempelajari dan menggunakan sistem komunikasi yang kompleks, atau untuk menjelaskan sekumpulan aturan yang membentuk sistem tersebut atau sekumpulan pengucapan yang dapat dihasilkan dari aturan-aturan tersebut.
+1	Sebagai	bagai	ADP	IN	_	2	case	_	TokenRange=650:657
+2	konsep	konsep	NOUN	NN	Number=Sing	9	obl	_	TokenRange=658:664
+3	umum	umum	ADJ	JJ	_	2	amod	_	SpaceAfter=No|TokenRange=665:669
+4	,	,	PUNCT	,	_	9	punct	_	TokenRange=669:670
+5	"	"	PUNCT	``	_	9	punct	_	SpaceAfter=No|TokenRange=671:672
+6	bahasa	bahasa	NOUN	NN	Number=Sing	9	nsubj	_	SpaceAfter=No|TokenRange=672:678
+7	"	"	PUNCT	''	_	6	punct	_	TokenRange=678:679
+8	bisa	bisa	AUX	MD	_	9	aux	_	TokenRange=680:684
+9	mengacu	acu	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=685:692
+10	pada	pada	ADP	IN	_	11	case	_	TokenRange=693:697
+11	kemampuan	mampu	NOUN	NN	Number=Sing	9	obl	_	TokenRange=698:707
+12	kognitif	kognitif	ADJ	JJ	_	11	amod	_	TokenRange=708:716
+13	untuk	untuk	SCONJ	IN	_	15	mark	_	TokenRange=717:722
+14	dapat	dapat	AUX	MD	_	15	aux	_	TokenRange=723:728
+15	mempelajari	pelajar	VERB	VB	Mood=Ind|Voice=Act	11	acl:relcl	_	TokenRange=729:740
+16	dan	dan	CCONJ	CC	_	17	cc	_	TokenRange=741:744
+17	menggunakan	guna	VERB	VB	Mood=Ind|Voice=Act	15	conj	_	TokenRange=745:756
+18	sistem	sistem	NOUN	NN	Number=Sing	17	obj	_	TokenRange=757:763
+19	komunikasi	komunikasi	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=764:774
+20	yang	yang	PRON	IN	PronType=Rel	21	nsubj	_	TokenRange=775:779
+21	kompleks	kompleks	ADJ	NN	_	18	acl:relcl	_	SpaceAfter=No|TokenRange=780:788
+22	,	,	PUNCT	,	_	25	punct	_	TokenRange=788:789
+23	atau	atau	CCONJ	CC	_	25	cc	_	TokenRange=790:794
+24	untuk	untuk	SCONJ	IN	_	25	mark	_	TokenRange=795:800
+25	menjelaskan	jelas	VERB	VB	Mood=Ind|Voice=Act	11	conj	_	TokenRange=801:812
+26	sekumpulan	sekumpulan	DET	DT	Number=Plur|PronType=Ind	27	det	_	TokenRange=813:823
+27	aturan	atur	NOUN	NN	Number=Sing	25	obj	_	TokenRange=824:830
+28	yang	yang	PRON	IN	PronType=Rel	29	nsubj	_	TokenRange=831:835
+29	membentuk	bentuk	VERB	VB	Mood=Ind|Voice=Act	27	acl:relcl	_	TokenRange=836:845
+30	sistem	sistem	NOUN	NN	Number=Sing	29	obj	_	TokenRange=846:852
+31	tersebut	sebut	DET	DT	PronType=Dem	30	det	_	TokenRange=853:861
+32	atau	atau	CCONJ	CC	_	34	cc	_	TokenRange=862:866
+33	sekumpulan	sekumpulan	DET	DT	Number=Sing	34	det	_	TokenRange=867:877
+34	pengucapan	ucap	NOUN	NN	Number=Sing	27	conj	_	TokenRange=878:888
+35	yang	yang	PRON	IN	PronType=Rel	37	nsubj:pass	_	TokenRange=889:893
+36	dapat	dapat	AUX	MD	_	37	aux	_	TokenRange=894:899
+37	dihasilkan	hasil	VERB	VB	Mood=Ind|Voice=Pass	34	acl:relcl	_	TokenRange=900:910
+38	dari	dari	ADP	IN	_	39	case	_	TokenRange=911:915
+39	aturan-aturan	atur	NOUN	NN	Number=Plur	37	obl	_	TokenRange=916:929
+40	tersebut	sebut	DET	DT	PronType=Dem	39	det	_	SpaceAfter=No|TokenRange=930:938
+41	.	.	PUNCT	.	_	9	punct	_	TokenRange=938:939
+
+# sent_id = 8
+# text = Semua bahasa bergantung pada proses semiosis untuk menghubungkan isyarat dengan makna tertentu.
+1	Semua	semua	DET	DT	PronType=Tot	2	det	_	TokenRange=940:945
+2	bahasa	bahasa	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=946:952
+3	bergantung	gantung	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=953:963
+4	pada	pada	ADP	IN	_	5	case	_	TokenRange=964:968
+5	proses	proses	NOUN	NN	Number=Sing	3	obl	_	TokenRange=969:975
+6	semiosis	semiosis	ADJ	JJ	_	5	amod	_	TokenRange=976:984
+7	untuk	untuk	SCONJ	IN	_	8	mark	_	TokenRange=985:990
+8	menghubungkan	hubung	VERB	VB	Mood=Ind|Voice=Act	5	acl:relcl	_	TokenRange=991:1004
+9	isyarat	isyarat	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1005:1012
+10	dengan	dengan	ADP	IN	_	11	case	_	TokenRange=1013:1019
+11	makna	makna	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=1020:1025
+12	tertentu	tentu	DET	DT	PronType=Dem	11	amod	_	SpaceAfter=No|TokenRange=1026:1034
+13	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1034:1035
+
+# newpar
+# sent_id = 9
+# text = Bahasa lisan dan bahasa isyarat memiliki sebuah sistem fonologis yang mengatur bagaimana simbol digunakan untuk membentuk urutan yang dikenal sebagai kata atau morfem, dan suatu sistem sintaks yang mengatur bagaimana kata-kata dan morfem digabungkan untuk membentuk frasa dan penyebutan.
+1	Bahasa	bahasa	NOUN	NN	Number=Sing	6	nsubj	_	TokenRange=1039:1045
+2	lisan	lisan	ADJ	NN	_	1	amod	_	TokenRange=1046:1051
+3	dan	dan	CCONJ	CC	_	4	cc	_	TokenRange=1052:1055
+4	bahasa	bahasa	NOUN	NN	Number=Sing	1	conj	_	TokenRange=1056:1062
+5	isyarat	isyarat	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=1063:1070
+6	memiliki	milik	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=1071:1079
+7	sebuah	buah	DET	DT	Definite=Ind|PronType=Art	8	det	_	TokenRange=1080:1086
+8	sistem	sistem	NOUN	NN	Number=Sing	6	obj	_	TokenRange=1087:1093
+9	fonologis	fonologis	ADJ	JJ	_	8	amod	_	TokenRange=1094:1103
+10	yang	yang	PRON	IN	PronType=Rel	11	nsubj	_	TokenRange=1104:1108
+11	mengatur	atur	VERB	VB	Mood=Ind|Voice=Act	8	acl:relcl	_	TokenRange=1109:1117
+12	bagaimana	bagaimana	ADV	WP	PronType=Rel	14	advmod	_	TokenRange=1118:1127
+13	simbol	simbol	NOUN	NN	Number=Sing	14	nsubj:pass	_	TokenRange=1128:1134
+14	digunakan	guna	VERB	VB	Mood=Ind|Voice=Pass	11	advcl	_	TokenRange=1135:1144
+15	untuk	untuk	SCONJ	IN	_	16	mark	_	TokenRange=1145:1150
+16	membentuk	bentuk	VERB	VB	Mood=Ind|Voice=Act	14	advcl	_	TokenRange=1151:1160
+17	urutan	urut	NOUN	NN	Number=Sing	16	obj	_	TokenRange=1161:1167
+18	yang	yang	PRON	IN	PronType=Rel	19	nsubj:pass	_	TokenRange=1168:1172
+19	dikenal	kenal	VERB	VB	Mood=Ind|Voice=Pass	17	acl:relcl	_	TokenRange=1173:1180
+20	sebagai	bagai	ADP	IN	_	21	case	_	TokenRange=1181:1188
+21	kata	kata	NOUN	NN	Number=Sing	19	obl	_	TokenRange=1189:1193
+22	atau	atau	CCONJ	CC	_	23	cc	_	TokenRange=1194:1198
+23	morfem	morfem	NOUN	NN	Number=Sing	21	conj	_	SpaceAfter=No|TokenRange=1199:1205
+24	,	,	PUNCT	,	_	27	punct	_	TokenRange=1205:1206
+25	dan	dan	CCONJ	CC	_	27	cc	_	TokenRange=1207:1210
+26	suatu	suatu	DET	DT	Definite=Ind|PronType=Art	27	det	_	TokenRange=1211:1216
+27	sistem	sistem	NOUN	NN	Number=Sing	17	conj	_	TokenRange=1217:1223
+28	sintaks	sintaks	NOUN	NN	Number=Sing	27	nmod	_	TokenRange=1224:1231
+29	yang	yang	PRON	IN	PronType=Rel	30	nsubj	_	TokenRange=1232:1236
+30	mengatur	atur	VERB	VB	Mood=Ind|Voice=Act	27	acl:relcl	_	TokenRange=1237:1245
+31	bagaimana	bagaimana	ADV	WP	PronType=Rel	35	advmod	_	TokenRange=1246:1255
+32	kata-kata	kata	NOUN	NN	Number=Plur	35	nsubj:pass	_	TokenRange=1256:1265
+33	dan	dan	CCONJ	CC	_	34	cc	_	TokenRange=1266:1269
+34	morfem	morfem	NOUN	NN	Number=Sing	32	conj	_	TokenRange=1270:1276
+35	digabungkan	gabung	VERB	VB	Mood=Ind|Voice=Pass	30	ccomp	_	TokenRange=1277:1288
+36	untuk	untuk	SCONJ	IN	_	37	mark	_	TokenRange=1289:1294
+37	membentuk	bentuk	VERB	VB	Mood=Ind|Voice=Act	35	advcl	_	TokenRange=1295:1304
+38	frasa	frasa	NOUN	NN	Number=Sing	37	obj	_	TokenRange=1305:1310
+39	dan	dan	CCONJ	CC	_	40	cc	_	TokenRange=1311:1314
+40	penyebutan	sebut	NOUN	NN	Number=Sing	38	conj	_	SpaceAfter=No|TokenRange=1315:1325
+41	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1325:1326
+
+# newpar
+# sent_id = 10
+# text = Bahasa manusia unik karena memiliki sifat-sifat produktivitas, rekursif, dan pergeseran, dan karena secara keseluruhan bahasa manusia bergantung pula pada konvensi serta edukasi sosial.
+1	Bahasa	bahasa	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=1330:1336
+2	manusia	manusia	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=1337:1344
+3	unik	unik	ADJ	JJ	_	0	root	_	TokenRange=1345:1349
+4	karena	karena	SCONJ	IN	_	5	mark	_	TokenRange=1350:1356
+5	memiliki	milik	VERB	VB	Mood=Ind|Voice=Act	3	advcl	_	TokenRange=1357:1365
+6	sifat-sifat	sifat	NOUN	NN	Number=Plur	5	obj	_	TokenRange=1366:1377
+7	produktivitas	produktivitas	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=1378:1391
+8	,	,	PUNCT	,	_	9	punct	_	TokenRange=1391:1392
+9	rekursif	rekursif	ADJ	JJ	_	7	conj	_	SpaceAfter=No|TokenRange=1393:1401
+10	,	,	PUNCT	,	_	12	punct	_	TokenRange=1401:1402
+11	dan	dan	CCONJ	CC	_	12	cc	_	TokenRange=1403:1406
+12	pergeseran	geser	NOUN	NN	Number=Sing	6	conj	_	SpaceAfter=No|TokenRange=1407:1417
+13	,	,	PUNCT	,	_	20	punct	_	TokenRange=1417:1418
+14	dan	dan	CCONJ	CC	_	20	cc	_	TokenRange=1419:1422
+15	karena	karena	SCONJ	IN	_	20	mark	_	TokenRange=1423:1429
+16	secara	cara	ADP	IN	_	17	case	_	TokenRange=1430:1436
+17	keseluruhan	seluruh	NOUN	NN	Number=Sing	20	obl	_	TokenRange=1437:1448
+18	bahasa	bahasa	NOUN	NN	Number=Sing	20	nsubj	_	TokenRange=1449:1455
+19	manusia	manusia	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=1456:1463
+20	bergantung	gantung	VERB	VB	Mood=Ind|Voice=Act	3	conj	_	TokenRange=1464:1474
+21	pula	pula	ADV	RB	_	20	advmod	_	TokenRange=1475:1479
+22	pada	pada	ADP	IN	_	23	case	_	TokenRange=1480:1484
+23	konvensi	konvensi	NOUN	NN	Number=Sing	20	obl	_	TokenRange=1485:1493
+24	serta	serta	CCONJ	CC	_	25	cc	_	TokenRange=1494:1499
+25	edukasi	edukasi	NOUN	NN	Number=Sing	23	conj	_	TokenRange=1500:1507
+26	sosial	sosial	NOUN	NN	Number=Sing	25	nmod	_	SpaceAfter=No|TokenRange=1508:1514
+27	.	.	PUNCT	.	_	3	punct	_	TokenRange=1514:1515
+
+# sent_id = 11
+# text = Strukturnya yang kompleks mampu memberikan kemungkinan ekspresi dan penggunaan yang lebih luas daripada sistem komunikasi hewan yang diketahui.
+1-2	Strukturnya	_	_	_	_	_	_	_	TokenRange=1516:1527
+1	Struktur	struktur	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	nya	nya	PRON	PRP$	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
+3	yang	yang	PRON	IN	PronType=Rel	4	nsubj	_	TokenRange=1528:1532
+4	kompleks	kompleks	ADJ	JJ	_	1	acl:relcl	_	TokenRange=1533:1541
+5	mampu	mampu	ADJ	JJ	_	6	advcl	_	TokenRange=1542:1547
+6	memberikan	beri	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=1548:1558
+7	kemungkinan	mungkin	NOUN	NN	Number=Sing	6	obj	_	TokenRange=1559:1570
+8	ekspresi	ekspresi	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=1571:1579
+9	dan	dan	CCONJ	CC	_	10	cc	_	TokenRange=1580:1583
+10	penggunaan	guna	NOUN	NN	Number=Sing	7	conj	_	TokenRange=1584:1594
+11	yang	yang	PRON	IN	PronType=Rel	13	nsubj	_	TokenRange=1595:1599
+12	lebih	lebih	ADV	RB	_	13	advmod	_	TokenRange=1600:1605
+13	luas	luas	ADJ	JJ	_	10	acl:relcl	_	TokenRange=1606:1610
+14	daripada	daripada	ADP	IN	_	15	case	_	TokenRange=1611:1619
+15	sistem	sistem	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=1620:1626
+16	komunikasi	komunikasi	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=1627:1637
+17	hewan	hewan	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=1638:1643
+18	yang	yang	PRON	IN	PronType=Rel	19	nsubj:pass	_	TokenRange=1644:1648
+19	diketahui	ketahui	VERB	VB	Mood=Ind|Voice=Pass	15	acl:relcl	_	SpaceAfter=No|TokenRange=1649:1658
+20	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1658:1659
+
+# newpar
+# sent_id = 12
+# text = Sejak zaman hominin, bahasa diperkirakan mulai secara bertahap mengubah sistem komunikasi antarprimata.
+1	Sejak	sejak	ADP	IN	_	2	case	_	TokenRange=1663:1668
+2	zaman	zaman	NOUN	NN	Number=Sing	6	obl:tmod	_	TokenRange=1669:1674
+3	hominin	hominin	NOUN	JJ	_	2	nmod	_	SpaceAfter=No|TokenRange=1675:1682
+4	,	,	PUNCT	,	_	6	punct	_	TokenRange=1682:1683
+5	bahasa	bahasa	NOUN	NN	Number=Sing	6	nsubj:pass	_	TokenRange=1684:1690
+6	diperkirakan	kira	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=1691:1703
+7	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	6	ccomp	_	TokenRange=1704:1709
+8	secara	cara	ADP	IN	_	9	case:adv	_	TokenRange=1710:1716
+9	bertahap	tahap	VERB	VB	Mood=Ind|Voice=Act	7	advcl	_	TokenRange=1717:1725
+10	mengubah	ubah	VERB	VB	Mood=Ind|Voice=Act	9	ccomp	_	TokenRange=1726:1734
+11	sistem	sistem	NOUN	NN	Number=Sing	10	obj	_	TokenRange=1735:1741
+12	komunikasi	komunikasi	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=1742:1752
+13	antarprimata	antarprimata	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=1753:1765
+14	.	.	PUNCT	.	_	6	punct	_	TokenRange=1765:1766
+
+# sent_id = 13
+# text = Primata kemudian mulai memperoleh kemampuan untuk membentuk suatu teori pikiran dan intensionalitas.
+1	Primata	primata	PROPN	NNP	_	3	nsubj	_	TokenRange=1767:1774
+2	kemudian	kemudian	ADV	RB	_	3	advmod	_	TokenRange=1775:1783
+3	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=1784:1789
+4	memperoleh	peroleh	VERB	VB	Mood=Ind|Voice=Act	3	xcomp	_	TokenRange=1790:1800
+5	kemampuan	mampu	NOUN	NN	Number=Sing	4	obj	_	TokenRange=1801:1810
+6	untuk	untuk	SCONJ	IN	_	7	mark	_	TokenRange=1811:1816
+7	membentuk	bentuk	VERB	VB	Mood=Ind|Voice=Act	4	advcl	_	TokenRange=1817:1826
+8	suatu	suatu	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=1827:1832
+9	teori	teori	NOUN	NN	Number=Sing	7	obj	_	TokenRange=1833:1838
+10	pikiran	pikir	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=1839:1846
+11	dan	dan	CCONJ	CC	_	12	cc	_	TokenRange=1847:1850
+12	intensionalitas	intensionalitas	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=1851:1866
+13	.	.	PUNCT	.	_	3	punct	_	TokenRange=1866:1867
+
+# sent_id = 14
+# text = Perkembangan tersebut terkadang diperkirakan bersamaan dengan meningkatnya volume otak, dan banyak ahli bahasa berpendapat bahwa struktur bahasa berkembang untuk melayani fungsi sosial dan komunikatif tertentu.
+1	Perkembangan	kembang	NOUN	NN	Number=Sing	3	nsubj:pass	_	TokenRange=1868:1880
+2	tersebut	sebut	DET	DT	PronType=Dem	1	det	_	TokenRange=1881:1889
+3	terkadang	kadang	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=1890:1899
+4	diperkirakan	kira	VERB	VB	Mood=Ind|Voice=Pass	3	ccomp	_	TokenRange=1900:1912
+5	bersamaan	sama	VERB	VB	Mood=Ind|Voice=Act	4	ccomp	_	TokenRange=1913:1922
+6	dengan	dengan	SCONJ	IN	_	7	mark	_	TokenRange=1923:1929
+7-8	meningkatnya	_	_	_	_	_	_	_	TokenRange=1930:1942
+7	meningkat	tingkat	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	_
+8	nya	nya	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+9	volume	volume	NOUN	NN	Number=Sing	7	nsubj	_	TokenRange=1943:1949
+10	otak	otak	NOUN	NN	Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=1950:1954
+11	,	,	PUNCT	,	_	16	punct	_	TokenRange=1954:1955
+12	dan	dan	CCONJ	CC	_	16	cc	_	TokenRange=1956:1959
+13	banyak	banyak	DET	DT	Number=Plur|PronType=Ind	14	det	_	TokenRange=1960:1966
+14	ahli	ahli	NOUN	NN	Number=Sing	16	nsubj	_	TokenRange=1967:1971
+15	bahasa	bahasa	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=1972:1978
+16	berpendapat	dapat	VERB	VB	Mood=Ind|Voice=Act	4	conj	_	TokenRange=1979:1990
+17	bahwa	bahwa	SCONJ	IN	_	20	mark	_	TokenRange=1991:1996
+18	struktur	struktur	NOUN	NN	Number=Sing	20	nsubj	_	TokenRange=1997:2005
+19	bahasa	bahasa	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=2006:2012
+20	berkembang	kembang	VERB	VB	Mood=Ind|Voice=Act	16	advcl	_	TokenRange=2013:2023
+21	untuk	untuk	SCONJ	IN	_	22	mark	_	TokenRange=2024:2029
+22	melayani	layan	VERB	VB	Mood=Ind|Voice=Act	20	advcl	_	TokenRange=2030:2038
+23	fungsi	fungsi	NOUN	NN	Number=Sing	22	obj	_	TokenRange=2039:2045
+24	sosial	sosial	NOUN	NN	Number=Sing	23	nmod	_	TokenRange=2046:2052
+25	dan	dan	CCONJ	CC	_	26	cc	_	TokenRange=2053:2056
+26	komunikatif	komunikatif	ADJ	JJ	_	24	conj	_	TokenRange=2057:2068
+27	tertentu	tentu	DET	DT	PronType=Dem	23	det	_	SpaceAfter=No|TokenRange=2069:2077
+28	.	.	PUNCT	.	_	3	punct	_	TokenRange=2077:2078
+
+# sent_id = 15
+# text = Bahasa diproses pada banyak lokasi yang berbeda pada otak manusia, terutama di area Broca dan area Wernicke.
+1	Bahasa	bahasa	NOUN	NN	Number=Sing	2	nsubj:pass	_	TokenRange=2079:2085
+2	diproses	proses	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=2086:2094
+3	pada	pada	ADP	IN	_	5	case	_	TokenRange=2095:2099
+4	banyak	banyak	DET	DT	Number=Plur|PronType=Ind	5	det	_	TokenRange=2100:2106
+5	lokasi	lokasi	NOUN	NN	Number=Sing	2	obl	_	TokenRange=2107:2113
+6	yang	yang	PRON	IN	PronType=Rel	7	nsubj	_	TokenRange=2114:2118
+7	berbeda	beda	VERB	VB	Mood=Ind|Voice=Act	5	acl:relcl	_	TokenRange=2119:2126
+8	pada	pada	ADP	IN	_	9	case	_	TokenRange=2127:2131
+9	otak	otak	NOUN	NN	Number=Sing	2	obl	_	TokenRange=2132:2136
+10	manusia	manusia	NOUN	NN	Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=2137:2144
+11	,	,	PUNCT	,	_	5	punct	_	TokenRange=2144:2145
+12	terutama	utama	ADV	RB	_	5	appos	_	TokenRange=2146:2154
+13	di	di	ADP	IN	_	14	case	_	TokenRange=2155:2157
+14	area	area	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=2158:2162
+15	Broca	Broca	PROPN	NNP	_	14	nmod	_	TokenRange=2163:2168
+16	dan	dan	CCONJ	CC	_	17	cc	_	TokenRange=2169:2172
+17	area	area	NOUN	NN	Number=Sing	15	conj	_	TokenRange=2173:2177
+18	Wernicke	Wernicke	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|TokenRange=2178:2186
+19	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\r\n\r\n|TokenRange=2186:2187
+
+# newpar
+# sent_id = 16
+# text = Manusia mengakuisisi bahasa lewat interaksi sosial pada masa balita, dan anak-anak sudah dapat berbicara secara fasih kurang lebih pada umur tiga tahun.
+1	Manusia	manusia	NOUN	NN	Number=Sing	2	nsubj	_	TokenRange=2191:2198
+2	mengakuisisi	akuisisi	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=2199:2211
+3	bahasa	bahasa	NOUN	NN	Number=Sing	2	obj	_	TokenRange=2212:2218
+4	lewat	lewat	ADP	IN	_	5	case	_	TokenRange=2219:2224
+5	interaksi	interaksi	NOUN	NN	Number=Sing	2	obl	_	TokenRange=2225:2234
+6	sosial	sosial	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=2235:2241
+7	pada	pada	ADP	IN	_	8	case	_	TokenRange=2242:2246
+8	masa	masa	NOUN	NN	Number=Sing	5	nmod:tmod	_	TokenRange=2247:2251
+9	balita	balita	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=2252:2258
+10	,	,	PUNCT	,	_	15	punct	_	TokenRange=2258:2259
+11	dan	dan	CCONJ	CC	_	15	cc	_	TokenRange=2260:2263
+12	anak-anak	anak	NOUN	NN	Number=Plur	15	nsubj	_	TokenRange=2264:2273
+13	sudah	sudah	AUX	MD	_	15	aux	_	TokenRange=2274:2279
+14	dapat	dapat	AUX	MD	_	15	aux	_	TokenRange=2280:2285
+15	berbicara	bicara	VERB	VB	Mood=Ind|Voice=Act	2	conj	_	TokenRange=2286:2295
+16	secara	cara	ADP	IN	_	17	case:adv	_	TokenRange=2296:2302
+17	fasih	fasih	ADJ	JJ	_	15	advcl	_	TokenRange=2303:2308
+18	kurang	kurang	ADV	RB	_	17	advmod	_	TokenRange=2309:2315
+19	lebih	lebih	ADV	RB	_	18	fixed	_	TokenRange=2316:2321
+20	pada	pada	ADP	IN	_	21	case	_	TokenRange=2322:2326
+21	umur	umur	NOUN	NN	Number=Sing	15	obl:tmod	_	TokenRange=2327:2331
+22	tiga	tiga	NUM	CD	NumType=Card	23	nummod	_	TokenRange=2332:2336
+23	tahun	tahun	NOUN	NN	Number=Sing	21	nmod:tmod	_	SpaceAfter=No|TokenRange=2337:2342
+24	.	.	PUNCT	.	_	2	punct	_	TokenRange=2342:2343
+
+# sent_id = 17
+# text = Penggunaan bahasa telah berakar dalam kultur manusia.
+1	Penggunaan	guna	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=2344:2354
+2	bahasa	bahasa	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=2355:2361
+3	telah	telah	AUX	MD	_	4	aux	_	TokenRange=2362:2367
+4	berakar	akar	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=2368:2375
+5	dalam	dalam	ADP	IN	_	6	case	_	TokenRange=2376:2381
+6	kultur	kultur	NOUN	NN	Number=Sing	4	obl	_	TokenRange=2382:2388
+7	manusia	manusia	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=2389:2396
+8	.	.	PUNCT	.	_	4	punct	_	TokenRange=2396:2397
+
+# sent_id = 18
+# text = Oleh karena itu, selain digunakan untuk berkomunikasi, bahasa juga memiliki banyak fungsi sosial dan kultural, misalnya untuk menandakan identitas suatu kelompok, stratifikasi sosial, dan untuk dandanan sosial dan hiburan.
+1	Oleh	oleh	ADP	IN	_	12	advmod	_	TokenRange=2398:2402
+2	karena	karena	ADP	IN	_	1	fixed	_	TokenRange=2403:2409
+3	itu	itu	PRON	PRP	PronType=Dem	1	fixed	_	SpaceAfter=No|TokenRange=2410:2413
+4	,	,	PUNCT	,	_	12	punct	_	TokenRange=2413:2414
+5	selain	selain	SCONJ	IN	_	6	mark	_	TokenRange=2415:2421
+6	digunakan	guna	VERB	VB	Mood=Ind|Voice=Pass	12	advcl	_	TokenRange=2422:2431
+7	untuk	untuk	SCONJ	IN	_	8	mark	_	TokenRange=2432:2437
+8	berkomunikasi	komunikasi	VERB	VB	Mood=Ind|Voice=Act	6	advcl	_	SpaceAfter=No|TokenRange=2438:2451
+9	,	,	PUNCT	,	_	12	punct	_	TokenRange=2451:2452
+10	bahasa	bahasa	NOUN	NN	Number=Sing	12	nsubj	_	TokenRange=2453:2459
+11	juga	juga	ADV	RB	_	12	advmod	_	TokenRange=2460:2464
+12	memiliki	milik	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=2465:2473
+13	banyak	banyak	DET	DT	Number=Plur|PronType=Ind	14	det	_	TokenRange=2474:2480
+14	fungsi	fungsi	NOUN	NN	Number=Sing	12	obj	_	TokenRange=2481:2487
+15	sosial	sosial	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=2488:2494
+16	dan	dan	CCONJ	CC	_	17	cc	_	TokenRange=2495:2498
+17	kultural	kultural	NOUN	NN	Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=2499:2507
+18	,	,	PUNCT	,	_	14	punct	_	TokenRange=2507:2508
+19	misalnya	misalnya	SCONJ	RB	_	14	mark	_	TokenRange=2509:2517
+20	untuk	untuk	SCONJ	IN	_	21	mark	_	TokenRange=2518:2523
+21	menandakan	tanda	VERB	VB	Mood=Ind|Voice=Act	14	acl:relcl	_	TokenRange=2524:2534
+22	identitas	identitas	NOUN	NN	Number=Sing	21	obj	_	TokenRange=2535:2544
+23	suatu	suatu	DET	DT	Definite=Ind|PronType=Art	24	det	_	TokenRange=2545:2550
+24	kelompok	kelompok	NOUN	NN	Number=Sing	22	nmod	_	SpaceAfter=No|TokenRange=2551:2559
+25	,	,	PUNCT	,	_	26	punct	_	TokenRange=2559:2560
+26	stratifikasi	stratifikasi	NOUN	NN	Number=Sing	22	conj	_	TokenRange=2561:2573
+27	sosial	sosial	NOUN	NN	Number=Sing	26	nmod	_	SpaceAfter=No|TokenRange=2574:2580
+28	,	,	PUNCT	,	_	31	punct	_	TokenRange=2580:2581
+29	dan	dan	CCONJ	CC	_	31	cc	_	TokenRange=2582:2585
+30	untuk	untuk	ADP	IN	_	31	case	_	TokenRange=2586:2591
+31	dandanan	dandan	NOUN	NN	Number=Sing	22	conj	_	TokenRange=2592:2600
+32	sosial	sosial	NOUN	NN	Number=Sing	31	nmod	_	TokenRange=2601:2607
+33	dan	dan	CCONJ	CC	_	34	cc	_	TokenRange=2608:2611
+34	hiburan	hibur	NOUN	NN	Number=Sing	32	conj	_	SpaceAfter=No|TokenRange=2612:2619
+35	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\r\n\r\n|TokenRange=2619:2620
+
+# newpar
+# sent_id = 19
+# text = Bahasa-bahasa berubah dan bervariasi sepanjang waktu, dan sejarah evolusinya dapat direkonstruksi ulang dengan membandingkan bahasa modern untuk menentukan sifat-sifat mana yang harus dimiliki oleh bahasa leluhurnya supaya perubahan nantinya dapat terjadi.
+1	Bahasa-bahasa	bahasa	NOUN	NN	Number=Plur	2	nsubj	_	TokenRange=2624:2637
+2	berubah	rubah	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=2638:2645
+3	dan	dan	CCONJ	CC	_	4	cc	_	TokenRange=2646:2649
+4	bervariasi	variasi	VERB	VB	Mood=Ind|Voice=Act	2	conj	_	TokenRange=2650:2660
+5	sepanjang	sepanjang	NOUN	NN	Number=Sing	6	nmod:lmod	_	TokenRange=2661:2670
+6	waktu	waktu	NOUN	NN	Number=Sing	4	obl:tmod	_	SpaceAfter=No|TokenRange=2671:2676
+7	,	,	PUNCT	,	_	13	punct	_	TokenRange=2676:2677
+8	dan	dan	CCONJ	CC	_	13	cc	_	TokenRange=2678:2681
+9	sejarah	sejarah	NOUN	NN	Number=Sing	13	nsubj:pass	_	TokenRange=2682:2689
+10-11	evolusinya	_	_	_	_	_	_	_	TokenRange=2690:2700
+10	evolusi	evolusi	NOUN	NN	Number=Sing	9	nmod	_	_
+11	nya	nya	PRON	PRP$	Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	_
+12	dapat	dapat	AUX	MD	_	13	aux	_	TokenRange=2701:2706
+13	direkonstruksi	rekonstruksi	VERB	VB	Mood=Ind|Voice=Pass	2	conj	_	TokenRange=2707:2721
+14	ulang	ulang	ADV	RB	_	13	advmod	_	TokenRange=2722:2727
+15	dengan	dengan	SCONJ	IN	_	16	mark	_	TokenRange=2728:2734
+16	membandingkan	banding	VERB	VB	Mood=Ind|Voice=Act	13	advcl	_	TokenRange=2735:2748
+17	bahasa	bahasa	NOUN	NN	Number=Sing	16	obj	_	TokenRange=2749:2755
+18	modern	modern	ADJ	JJ	_	17	amod	_	TokenRange=2756:2762
+19	untuk	untuk	SCONJ	IN	_	20	mark	_	TokenRange=2763:2768
+20	menentukan	tentu	VERB	VB	Mood=Ind|Voice=Act	16	advcl	_	TokenRange=2769:2779
+21	sifat-sifat	sifat	NOUN	NN	Number=Plur	20	obj	_	TokenRange=2780:2791
+22	mana	mana	PRON	PRP	PronType=Dem	21	det	_	TokenRange=2792:2796
+23	yang	yang	PRON	IN	PronType=Rel	25	nsubj:pass	_	TokenRange=2797:2801
+24	harus	harus	AUX	MD	_	25	aux	_	TokenRange=2802:2807
+25	dimiliki	milik	VERB	VB	Mood=Ind|Voice=Pass	21	acl:relcl	_	TokenRange=2808:2816
+26	oleh	oleh	ADP	IN	_	27	case	_	TokenRange=2817:2821
+27	bahasa	bahasa	NOUN	NN	Number=Sing	25	obl	_	TokenRange=2822:2828
+28-29	leluhurnya	_	_	_	_	_	_	_	TokenRange=2829:2839
+28	leluhur	leluhur	ADJ	JJ	_	27	amod	_	_
+29	nya	nya	DET	DT	Definite=Def|PronType=Art	27	det	_	_
+30	supaya	supaya	SCONJ	IN	_	35	mark	_	TokenRange=2840:2846
+31	perubahan	ubah	NOUN	NN	Number=Sing	35	nsubj:pass	_	TokenRange=2847:2856
+32-33	nantinya	_	_	_	_	_	_	_	TokenRange=2857:2865
+32	nanti	nanti	NOUN	NN	Number=Sing	31	nmod	_	_
+33	nya	nya	DET	DT	Definite=Def|PronType=Art	31	det	_	_
+34	dapat	dapat	AUX	MD	_	35	aux	_	TokenRange=2866:2871
+35	terjadi	jadi	VERB	VB	Mood=Ind|Voice=Pass	13	advcl	_	SpaceAfter=No|TokenRange=2872:2879
+36	.	.	PUNCT	.	_	2	punct	_	TokenRange=2879:2880
+
+# sent_id = 20
+# text = Sekelompok bahasa yang diturunkan dari leluhur yang sama dikenal sebagai rumpun bahasa.
+1	Sekelompok	sekelompok	DET	DT	Number=Sing	2	det	_	TokenRange=2881:2891
+2	bahasa	bahasa	NOUN	NN	Number=Sing	9	nsubj:pass	_	TokenRange=2892:2898
+3	yang	yang	PRON	IN	PronType=Rel	4	nsubj:pass	_	TokenRange=2899:2903
+4	diturunkan	turun	VERB	VB	Mood=Ind|Voice=Pass	2	acl:relcl	_	TokenRange=2904:2914
+5	dari	dari	ADP	IN	_	6	case	_	TokenRange=2915:2919
+6	leluhur	leluhur	NOUN	NN	Number=Sing	4	obl	_	TokenRange=2920:2927
+7	yang	yang	PRON	IN	PronType=Rel	8	nsubj	_	TokenRange=2928:2932
+8	sama	sama	ADJ	JJ	_	6	acl:relcl	_	TokenRange=2933:2937
+9	dikenal	kenal	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=2938:2945
+10	sebagai	bagai	ADP	IN	_	11	case	_	TokenRange=2946:2953
+11	rumpun	rumpun	NOUN	NN	Number=Sing	9	obl	_	TokenRange=2954:2960
+12	bahasa	bahasa	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=2961:2967
+13	.	.	PUNCT	.	_	9	punct	_	SpacesAfter=\r\n\r\n|TokenRange=2967:2968
+
+# newpar
+# sent_id = 21
+# text = Bahasa yang digunakan dunia sekarang tergolong pada keluarga Indo-Eropa.
+1	Bahasa	bahasa	NOUN	NN	Number=Sing	6	nsubj:pass	_	TokenRange=2972:2978
+2	yang	yang	PRON	IN	PronType=Rel	3	nsubj:pass	_	TokenRange=2979:2983
+3	digunakan	guna	VERB	VB	Mood=Ind|Voice=Pass	1	acl:relcl	_	TokenRange=2984:2993
+4	dunia	dunia	NOUN	NN	Number=Sing	3	obl	_	TokenRange=2994:2999
+5	sekarang	sekarang	ADV	RB	_	6	advmod	_	TokenRange=3000:3008
+6	tergolong	golong	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	TokenRange=3009:3018
+7	pada	pada	ADP	IN	_	8	case	_	TokenRange=3019:3023
+8	keluarga	keluarga	NOUN	NN	Number=Sing	6	obl	_	TokenRange=3024:3032
+9	Indo-Eropa	Indo-eropa	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|TokenRange=3033:3043
+10	.	.	PUNCT	.	_	6	punct	_	TokenRange=3043:3044
+
+# sent_id = 22
+# text = Termasuk di dalamnya adalah bahasa seperti Inggris, Spanyol, Portugis, Rusia, dan Hindi; Bahasa Sino-Tibet, yang melingkupi Bahasa Mandarin, Cantonese, dan banyak lainnya; Rumpun bahasa Afro-Asiatik yang melingkupi Arab, Amhar, Somali, dan Hebrew; dan bahasa Bantu, yang melingkupi Swahili, Zulu, Shona, dan ratusan bahasa lain yang digunakan di Afrika.
+1	Termasuk	masuk	VERB	VB	Mood=Ind|Voice=Pass	6	nsubj	_	TokenRange=3045:3053
+2	di	di	ADP	IN	_	4	case	_	TokenRange=3054:3056
+3-4	dalamnya	_	_	_	_	_	_	_	TokenRange=3057:3065
+3	dalam	dalam	NOUN	NN	Number=Sing	4	nmod:lmod	_	_
+4	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	adalah	adalah	AUX	VBZ	_	6	cop	_	TokenRange=3066:3072
+6	bahasa	bahasa	NOUN	NN	Number=Sing	0	root	_	TokenRange=3073:3079
+7	seperti	seperti	ADP	IN	_	8	case	_	TokenRange=3080:3087
+8	Inggris	Inggris	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|TokenRange=3088:3095
+9	,	,	PUNCT	,	_	10	punct	_	TokenRange=3095:3096
+10	Spanyol	Spanyol	PROPN	NNP	_	8	conj	_	SpaceAfter=No|TokenRange=3097:3104
+11	,	,	PUNCT	,	_	12	punct	_	TokenRange=3104:3105
+12	Portugis	Portugis	PROPN	NNP	_	8	conj	_	SpaceAfter=No|TokenRange=3106:3114
+13	,	,	PUNCT	,	_	14	punct	_	TokenRange=3114:3115
+14	Rusia	Rusia	PROPN	NNP	_	8	conj	_	SpaceAfter=No|TokenRange=3116:3121
+15	,	,	PUNCT	,	_	17	punct	_	TokenRange=3121:3122
+16	dan	dan	CCONJ	CC	_	17	cc	_	TokenRange=3123:3126
+17	Hindi;	Hindi;	PROPN	NNP	_	8	conj	_	TokenRange=3127:3133
+18	Bahasa	Bahasa	PROPN	NNP	_	17	flat:name	_	TokenRange=3134:3140
+19	Sino	Sino	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No|TokenRange=3141:3145
+20	-	-	PUNCT	:	_	17	punct	_	SpaceAfter=No|TokenRange=3145:3146
+21	Tibet	Tibet	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No|TokenRange=3146:3151
+22	,	,	PUNCT	,	_	17	punct	_	TokenRange=3151:3152
+23	yang	yang	PRON	IN	PronType=Rel	24	nsubj	_	TokenRange=3153:3157
+24	melingkupi	lingkup	VERB	VB	Mood=Ind|Voice=Act	17	acl:relcl	_	TokenRange=3158:3168
+25	Bahasa	Bahasa	PROPN	NNP	_	24	obj	_	TokenRange=3169:3175
+26	Mandarin	Mandarin	PROPN	NNP	_	25	flat:name	_	SpaceAfter=No|TokenRange=3176:3184
+27	,	,	PUNCT	,	_	28	punct	_	TokenRange=3184:3185
+28	Cantonese	Cantonese	PROPN	NNP	_	25	conj	_	SpaceAfter=No|TokenRange=3186:3195
+29	,	,	PUNCT	,	_	32	punct	_	TokenRange=3195:3196
+30	dan	dan	CCONJ	CC	_	32	cc	_	TokenRange=3197:3200
+31	banyak	banyak	DET	DT	PronType=Ind	32	advmod	_	TokenRange=3201:3207
+32	lainnya;	lainnya;	NOUN	NN	Number=Sing	8	conj	_	TokenRange=3208:3216
+33	Rumpun	Rumpun	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=3217:3223
+34	bahasa	bahasa	NOUN	NN	Number=Sing	33	nmod	_	TokenRange=3224:3230
+35	Afro-	Afro-	PROPN	NNP	_	34	nmod	_	SpaceAfter=No|TokenRange=3231:3236
+36	Asiatik	Asiatik	PROPN	NNP	_	35	flat:name	_	TokenRange=3236:3243
+37	yang	yang	PRON	IN	PronType=Rel	38	nsubj	_	TokenRange=3244:3248
+38	melingkupi	lingkup	VERB	VB	Mood=Ind|Voice=Act	33	acl:relcl	_	TokenRange=3249:3259
+39	Arab	Arab	PROPN	NNP	_	38	obj	_	SpaceAfter=No|TokenRange=3260:3264
+40	,	,	PUNCT	,	_	41	punct	_	TokenRange=3264:3265
+41	Amhar	Amhar	PROPN	NNP	_	39	conj	_	SpaceAfter=No|TokenRange=3266:3271
+42	,	,	PUNCT	,	_	43	punct	_	TokenRange=3271:3272
+43	Somali	Somali	PROPN	NNP	_	39	conj	_	SpaceAfter=No|TokenRange=3273:3279
+44	,	,	PUNCT	,	_	46	punct	_	TokenRange=3279:3280
+45	dan	dan	CCONJ	CC	_	46	cc	_	TokenRange=3281:3284
+46	Hebrew;	Hebrew;	PROPN	NNP	_	39	conj	_	TokenRange=3285:3292
+47	dan	dan	CCONJ	CC	_	48	cc	_	TokenRange=3293:3296
+48	bahasa	bahasa	NOUN	NN	Number=Sing	8	conj	_	TokenRange=3297:3303
+49	Bantu	Bantu	PROPN	NNP	_	48	nmod	_	SpaceAfter=No|TokenRange=3304:3309
+50	,	,	PUNCT	,	_	48	punct	_	TokenRange=3309:3310
+51	yang	yang	PRON	IN	PronType=Rel	52	nsubj	_	TokenRange=3311:3315
+52	melingkupi	lingkup	VERB	VB	Mood=Ind|Voice=Act	48	acl:relcl	_	TokenRange=3316:3326
+53	Swahili	Swahili	PROPN	NNP	_	52	obj	_	SpaceAfter=No|TokenRange=3327:3334
+54	,	,	PUNCT	,	_	55	punct	_	TokenRange=3334:3335
+55	Zulu	Zulu	PROPN	NNP	_	53	conj	_	SpaceAfter=No|TokenRange=3336:3340
+56	,	,	PUNCT	,	_	57	punct	_	TokenRange=3340:3341
+57	Shona	Shona	PROPN	NNP	_	53	conj	_	SpaceAfter=No|TokenRange=3342:3347
+58	,	,	PUNCT	,	_	60	punct	_	TokenRange=3347:3348
+59	dan	dan	CCONJ	CC	_	60	cc	_	TokenRange=3349:3352
+60	ratusan	ratus	NOUN	NN	Number=Sing	8	conj	_	TokenRange=3353:3360
+61	bahasa	bahasa	NOUN	NN	Number=Sing	60	nmod	_	TokenRange=3361:3367
+62	lain	lain	ADJ	JJ	_	61	amod	_	TokenRange=3368:3372
+63	yang	yang	PRON	IN	PronType=Rel	64	nsubj:pass	_	TokenRange=3373:3377
+64	digunakan	guna	VERB	VB	Mood=Ind|Voice=Pass	60	acl:relcl	_	TokenRange=3378:3387
+65	di	di	ADP	IN	_	66	case	_	TokenRange=3388:3390
+66	Afrika	Afrika	PROPN	NNP	_	64	obl	_	SpaceAfter=No|TokenRange=3391:3397
+67	.	.	PUNCT	.	_	6	punct	_	TokenRange=3397:3398
+
+# sent_id = 23
+# text = Konsensusnya adalah antara 50–90% bahasa yang digunakan sejak awal abad ke-21 kemungkinan akan punah pada tahun 2100.
+1	Konsensusnya	konsensusnya	NOUN	NN	_	18	nsubj	_	TokenRange=3399:3411
+2	adalah	adalah	AUX	VBZ	_	18	cop	_	TokenRange=3412:3418
+3	antara	antara	ADP	IN	_	7	case	_	TokenRange=3419:3425
+4	50	50	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=3426:3428
+5	–	–	PUNCT	:	_	6	punct	_	SpaceAfter=No|TokenRange=3428:3429
+6	90	90	NUM	CD	NumType=Card	4	flat	_	SpaceAfter=No|TokenRange=3429:3431
+7	%	%	SYM	SYM	_	18	obl	_	TokenRange=3431:3432
+8	bahasa	bahasa	NOUN	NN	Number=Sing	18	nsubj	_	TokenRange=3433:3439
+9	yang	yang	PRON	IN	PronType=Rel	10	nsubj:pass	_	TokenRange=3440:3444
+10	digunakan	guna	VERB	VB	Mood=Ind|Voice=Pass	8	acl:relcl	_	TokenRange=3445:3454
+11	sejak	sejak	ADP	IN	_	13	case	_	TokenRange=3455:3460
+12	awal	awal	NOUN	NN	Number=Sing	13	nmod:lmod	_	TokenRange=3461:3465
+13	abad	abad	NOUN	NN	Number=Sing	10	obl:tmod	_	TokenRange=3466:3470
+14	ke-	ke-	ADP	IN	_	15	case	_	SpaceAfter=No|TokenRange=3471:3474
+15	21	21	NUM	CD	NumType=Card	13	nummod	_	TokenRange=3474:3476
+16	kemungkinan	mungkin	ADV	RB	_	18	advmod	_	TokenRange=3477:3488
+17	akan	akan	AUX	MD	_	18	aux	_	TokenRange=3489:3493
+18	punah	punah	VERB	VB	Mood=Ind|Voice=Act	0	root	_	TokenRange=3494:3499
+19	pada	pada	ADP	IN	_	20	case	_	TokenRange=3500:3504
+20	tahun	tahun	NOUN	NN	Number=Sing	18	obl:tmod	_	TokenRange=3505:3510
+21	2100	2100	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|TokenRange=3511:3515
+22	.	.	PUNCT	.	_	18	punct	_	SpaceAfter=No|TokenRange=3515:3516

@@ -1,0 +1,398 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = basque-bdt-ud-2.10-220711
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hizkuntza gizakiok dugun komunikazio sistema konplexuak bereganatu eta erabiltzeko gaitasuna da, berariazkoa eta unibertsala.
+1	Hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	TokenRange=0:9
+2	gizakiok	gizaki	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Plur	3	nsubj	_	TokenRange=10:18
+3	dugun	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	5	acl	_	TokenRange=19:24
+4	komunikazio	komunikazio	NOUN	_	_	5	nmod	_	TokenRange=25:36
+5	sistema	sistema	NOUN	_	_	6	nmod	_	TokenRange=37:44
+6	konplexuak	konplexu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	7	obj	_	TokenRange=45:55
+7	bereganatu	bereganatu	VERB	_	VerbForm=Part	10	advcl	_	TokenRange=56:66
+8	eta	eta	CCONJ	_	_	9	cc	_	TokenRange=67:70
+9	erabiltzeko	erabili	VERB	_	Case=Loc	7	conj	_	TokenRange=71:82
+10	gaitasuna	gaitasun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	TokenRange=83:92
+11	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	10	cop	_	SpaceAfter=No|TokenRange=93:95
+12	,	,	PUNCT	_	_	10	punct	_	TokenRange=95:96
+13	berariazkoa	berariazko	NOUN	_	Case=Abs|Definite=Def|Number=Sing	10	appos	_	TokenRange=97:108
+14	eta	eta	CCONJ	_	_	15	cc	_	TokenRange=109:112
+15	unibertsala	unibertsal	ADJ	_	Case=Abs|Definite=Def|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=113:124
+16	.	.	PUNCT	_	_	10	punct	_	TokenRange=124:125
+
+# sent_id = 2
+# text = Era berean, hizkuntza jakin bat sistema horren edozein adibide da.
+1	Era	era	NOUN	_	_	11	obl	_	TokenRange=126:129
+2	berean	bera	DET	_	Case=Ine|Number=Sing	1	det	_	SpaceAfter=No|TokenRange=130:136
+3	,	,	PUNCT	_	_	10	punct	_	TokenRange=136:137
+4	hizkuntza	hizkuntza	NOUN	_	_	10	nsubj	_	TokenRange=138:147
+5	jakin	jakin	ADJ	_	_	4	amod	_	TokenRange=148:153
+6	bat	bat	NUM	_	NumType=Card	4	nummod	_	TokenRange=154:157
+7	sistema	sistema	NOUN	_	_	10	nmod	_	TokenRange=158:165
+8	horren	hori	DET	_	Case=Gen|Definite=Def|Number=Sing	7	det	_	TokenRange=166:172
+9	edozein	edozein	DET	_	_	10	det	_	TokenRange=173:180
+10	adibide	adibide	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind	0	root	_	TokenRange=181:188
+11	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	10	cop	_	SpaceAfter=No|TokenRange=189:191
+12	.	.	PUNCT	_	_	10	punct	_	TokenRange=191:192
+
+# sent_id = 3
+# text = Hizkuntza aztertzeaz arduratzen den zientzia hizkuntzalaritza da.
+1	Hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	2	obj	_	TokenRange=193:202
+2	aztertzeaz	aztertu	VERB	_	Case=Ins|Definite=Def|Number=Sing	3	advcl	_	TokenRange=203:213
+3	arduratzen	arduratu	VERB	_	Aspect=Imp|VerbForm=Inf	5	acl	_	TokenRange=214:224
+4	den	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	3	aux	_	TokenRange=225:228
+5	zientzia	zientzia	NOUN	_	_	6	nsubj	_	TokenRange=229:237
+6	hizkuntzalaritza	hizkuntzalaritza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	TokenRange=238:254
+7	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	6	cop	_	SpaceAfter=No|TokenRange=255:257
+8	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\r\n\r\n|TokenRange=257:258
+
+# newpar
+# sent_id = 4
+# text = Nolanahi ere, hizkuntza adiera anitzeko hitza da.
+1	Nolanahi	nolanahi	ADV	_	_	8	advmod	_	TokenRange=262:270
+2	ere	ere	CCONJ	_	_	1	fixed	_	SpaceAfter=No|TokenRange=271:274
+3	,	,	PUNCT	_	_	7	punct	_	TokenRange=274:275
+4	hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	7	nsubj	_	TokenRange=276:285
+5	adiera	adiera	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	7	nmod	_	TokenRange=286:292
+6	anitzeko	anitz	VERB	_	Case=Loc	5	nmod	_	TokenRange=293:301
+7	hitza	hitz	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	TokenRange=302:307
+8	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	7	cop	_	SpaceAfter=No|TokenRange=308:310
+9	.	.	PUNCT	_	_	7	punct	_	TokenRange=310:311
+
+# sent_id = 5
+# text = Hizkuntzaz dugun ikuspegiaren arabera, adiera bat edo beste har dezake:
+1	Hizkuntzaz	hizkuntza	NOUN	_	Animacy=Inan|Case=Ins|Definite=Def|Number=Sing	2	obl	_	TokenRange=312:322
+2	dugun	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	4	acl	_	TokenRange=323:328
+3	ikuspegiaren	ikuspegi	NOUN	_	Case=Gen	10	obl	_	TokenRange=329:341
+4	arabera	arabera	ADP	_	Animacy=Inan|Definite=Def|Number=Sing	3	case	_	SpaceAfter=No|TokenRange=342:349
+5	,	,	PUNCT	_	_	10	punct	_	TokenRange=349:350
+6	adiera	adiera	NOUN	_	_	10	obj	_	TokenRange=351:357
+7	bat	bat	NUM	_	NumType=Card	6	nummod	_	TokenRange=358:361
+8	edo	edo	CCONJ	_	_	9	cc	_	TokenRange=362:365
+9	beste	beste	DET	_	Case=Abs|Definite=Ind	6	conj	_	TokenRange=366:371
+10	har	hartu	VERB	_	VerbForm=Inf	0	root	_	TokenRange=372:375
+11	dezake	*ezan	AUX	_	Mood=Pot|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	10	aux	_	SpaceAfter=No|TokenRange=376:382
+12	:	:	PUNCT	_	_	10	punct	_	SpacesAfter=\r\n\r\n|TokenRange=382:383
+
+# newpar
+# sent_id = 6
+# text = hizkuntza zeinu hostunek edo hotsik gabekoek osatutako sistema; gizakiak gainerako gizakiekin komunikatu ahal izateko sistema hori erabiltzeko duen gaitasuna; erkidego batek komunikatzeko erabili ohi duen zeinuz osatutako kodea; erkidego batek pentsatzeko erabili ohi duen zeinuz osatutako kodea; erkidego batek kultur transmisiorako erabili ohi duen zeinuz osatutako kodea.
+1	hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	7	obj	_	TokenRange=387:396
+2	zeinu	zeinu	NOUN	_	_	3	nmod	_	TokenRange=397:402
+3	hostunek	hostun	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Plur	7	nsubj	_	TokenRange=403:411
+4	edo	edo	CCONJ	_	_	5	cc	_	TokenRange=412:415
+5	hotsik	hots	NOUN	_	Case=Abl	3	conj	_	TokenRange=416:422
+6	gabekoek	gabe	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Plur	5	nmod	_	TokenRange=423:431
+7	osatutako	osatu	VERB	_	Case=Loc|VerbForm=Part	8	advcl	_	TokenRange=432:441
+8	sistema	sistema	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	20	obj	_	SpaceAfter=No|TokenRange=442:449
+9	;	;	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n|TokenRange=449:450
+10	gizakiak	gizaki	NOUN	_	Animacy=Anim|Case=Abs|Definite=Def|Number=Plur	19	nsubj	_	TokenRange=452:460
+11	gainerako	gainerako	ADJ	_	_	12	amod	_	TokenRange=461:470
+12	gizakiekin	gizaki	NOUN	_	Animacy=Anim|Case=Com|Definite=Def|Number=Plur	13	obl	_	TokenRange=471:481
+13	komunikatu	komunikatu	VERB	_	VerbForm=Part	15	xcomp	_	TokenRange=482:492
+14	ahal	ahal	NOUN	_	Case=Abs|Definite=Ind	15	compound	_	TokenRange=493:497
+15	izateko	izan	VERB	_	Case=Abs|Definite=Ind	30	advcl	_	TokenRange=498:505
+16	sistema	sistema	NOUN	_	_	18	obj	_	TokenRange=506:513
+17	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing	16	det	_	TokenRange=514:518
+18	erabiltzeko	erabili	VERB	_	Case=Abs|Definite=Ind	19	advcl	_	TokenRange=519:530
+19	duen	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	8	acl	_	TokenRange=531:535
+20	gaitasuna	gaitasun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=536:545
+21	;	;	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n|TokenRange=545:546
+22	erkidego	erkidego	NOUN	_	_	29	nsubj	_	TokenRange=548:556
+23	batek	bat	NUM	_	NumType=Card	22	nummod	_	TokenRange=557:562
+24	komunikatzeko	komunikatu	VERB	_	Case=Abs|Definite=Ind	25	advcl	_	TokenRange=563:576
+25	erabili	erabili	VERB	_	Aspect=Perf|VerbForm=Part	28	acl	_	TokenRange=577:584
+26	ohi	ohi	X	_	_	25	aux	_	TokenRange=585:588
+27	duen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	25	aux	_	TokenRange=589:593
+28	zeinuz	zeinu	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind	29	obl	_	TokenRange=594:600
+29	osatutako	osatu	VERB	_	Case=Loc|VerbForm=Part	30	advcl	_	TokenRange=601:610
+30	kodea	kode	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=611:616
+31	;	;	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n|TokenRange=616:617
+32	erkidego	erkidego	NOUN	_	_	39	nsubj	_	TokenRange=619:627
+33	batek	bat	NUM	_	NumType=Card	22	nummod	_	TokenRange=628:633
+34	pentsatzeko	pentsatu	VERB	_	Case=Abs|Definite=Ind	35	advcl	_	TokenRange=634:645
+35	erabili	erabili	VERB	_	Aspect=Perf|VerbForm=Part	28	acl	_	TokenRange=646:653
+36	ohi	ohi	X	_	_	35	advmod	_	TokenRange=654:657
+37	duen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	35	aux	_	TokenRange=658:662
+38	zeinuz	zeinu	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind	39	obl	_	TokenRange=663:669
+39	osatutako	osatu	VERB	_	Case=Loc|VerbForm=Part	30	advcl	_	TokenRange=670:679
+40	kodea	kode	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=680:685
+41	;	;	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n|TokenRange=685:686
+42	erkidego	erkidego	NOUN	_	_	46	nsubj	_	TokenRange=688:696
+43	batek	bat	NUM	_	NumType=Card	42	nummod	_	TokenRange=697:702
+44	kultur	kultura	NOUN	_	_	45	nmod	_	TokenRange=703:709
+45	transmisiorako	transmisio	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind	46	obl	_	TokenRange=710:724
+46	erabili	erabili	VERB	_	Aspect=Perf|VerbForm=Part	49	acl	_	TokenRange=725:732
+47	ohi	ohi	X	_	_	46	advmod	_	TokenRange=733:736
+48	duen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	46	aux	_	TokenRange=737:741
+49	zeinuz	zeinu	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind	50	obl	_	TokenRange=742:748
+50	osatutako	osatu	VERB	_	Case=Loc|VerbForm=Part	51	advcl	_	TokenRange=749:758
+51	kodea	kode	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	1	conj	_	SpaceAfter=No|TokenRange=759:764
+52	.	.	PUNCT	_	_	20	punct	_	SpacesAfter=\r\n|TokenRange=764:765
+
+# sent_id = 7
+# text = Ikuspuntu zabalago batetik ikusita, hizkuntzak gizaki eta beste animalia batzuek arteko ezaugarria erakusten du, beraien esperientziak adierazi eta besteei komunikatzeko, ikur, seinale eta soinuak erabiliz.
+1	Ikuspuntu	ikuspuntu	NOUN	_	_	4	obl	_	TokenRange=767:776
+2	zabalago	zabal	ADJ	_	Degree=Cmp	1	amod	_	TokenRange=777:785
+3	batetik	bat	NUM	_	NumType=Card	1	nummod	_	TokenRange=786:793
+4	ikusita	ikusi	VERB	_	VerbForm=Part	14	advcl	_	SpaceAfter=No|TokenRange=794:801
+5	,	,	PUNCT	_	_	14	punct	_	TokenRange=801:802
+6	hizkuntzak	hizkuntza	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	14	nsubj	_	TokenRange=803:813
+7	gizaki	gizaki	NOUN	_	_	13	nmod	_	TokenRange=814:820
+8	eta	eta	CCONJ	_	_	10	cc	_	TokenRange=821:824
+9	beste	beste	DET	_	_	10	det	_	TokenRange=825:830
+10	animalia	animalia	NOUN	_	_	7	conj	_	TokenRange=831:839
+11	batzuek	batzuk	DET	_	Case=Erg|Definite=Def|Number=Plur	10	det	_	TokenRange=840:847
+12	arteko	arte	ADP	_	Case=Loc|Definite=Def|Number=Plur	11	case	_	TokenRange=848:854
+13	ezaugarria	ezaugarri	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	14	obj	_	TokenRange=855:865
+14	erakusten	erakutsi	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	TokenRange=866:875
+15	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	14	aux	_	SpaceAfter=No|TokenRange=876:878
+16	,	,	PUNCT	_	_	14	punct	_	TokenRange=878:879
+17	beraien	beraiek	PRON	_	PronType=Prs	18	nmod	_	TokenRange=880:887
+18	esperientziak	esperientzia	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	19	obj	_	TokenRange=888:901
+19	adierazi	adierazi	VERB	_	Voice=Cau	14	advcl	_	TokenRange=902:910
+20	eta	eta	CCONJ	_	_	29	cc	_	TokenRange=911:914
+21	besteei	beste	DET	_	Case=Dat|Definite=Def|Number=Plur	22	iobj	_	TokenRange=915:922
+22	komunikatzeko	komunikatu	VERB	_	Case=Abs|Definite=Ind	19	conj	_	SpaceAfter=No|TokenRange=923:936
+23	,	,	PUNCT	_	_	29	punct	_	TokenRange=936:937
+24	ikur	ikur	NOUN	_	_	29	obj	_	SpaceAfter=No|TokenRange=938:942
+25	,	,	PUNCT	_	_	26	punct	_	TokenRange=942:943
+26	seinale	seinale	NOUN	_	_	24	conj	_	TokenRange=944:951
+27	eta	eta	CCONJ	_	_	28	cc	_	TokenRange=952:955
+28	soinuak	soinu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	24	conj	_	TokenRange=956:963
+29	erabiliz	erabili	VERB	_	Case=Ins|Definite=Ind|VerbForm=Part	19	conj	_	SpaceAfter=No|TokenRange=964:972
+30	.	.	PUNCT	_	_	14	punct	_	TokenRange=972:973
+
+# sent_id = 8
+# text = Gizakiek hizkuntza konplexu bat garatu dute sekuentzia sonoro eta ikur grafikoen bitartez adierazten dena.
+1	Gizakiek	gizaki	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Plur	5	nsubj	_	TokenRange=974:982
+2	hizkuntza	hizkuntza	NOUN	_	_	5	obj	_	TokenRange=983:992
+3	konplexu	konplexu	ADJ	_	_	2	amod	_	TokenRange=993:1001
+4	bat	bat	NUM	_	NumType=Card	2	nummod	_	TokenRange=1002:1005
+5	garatu	garatu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	TokenRange=1006:1012
+6	dute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	5	aux	_	TokenRange=1013:1017
+7	sekuentzia	sekuentzia	NOUN	_	_	13	obl	_	TokenRange=1018:1028
+8	sonoro	sonoro	ADJ	_	_	7	amod	_	TokenRange=1029:1035
+9	eta	eta	CCONJ	_	_	10	cc	_	TokenRange=1036:1039
+10	ikur	ikur	NOUN	_	_	8	conj	_	TokenRange=1040:1044
+11	grafikoen	grafiko	ADJ	_	Case=Gen	10	nmod	_	TokenRange=1045:1054
+12	bitartez	_	ADP	_	Case=Ins|Definite=Def|Number=Plur	11	case	_	TokenRange=1055:1063
+13	adierazten	adierazi	VERB	_	Voice=Cau	5	obj	_	TokenRange=1064:1074
+14	dena	izan	AUX	_	Case=Abs|Definite=Def|Mood=Ind|Number=Sing|Number[abs]=Sing|Person[abs]=3	13	aux	_	SpaceAfter=No|TokenRange=1075:1079
+15	.	.	PUNCT	_	_	5	punct	_	TokenRange=1079:1080
+
+# sent_id = 9
+# text = Beste aldetik, animaliek soinua, usaina eta gorputza erabiltzen dute; sinpleagoa dirudien arren, sinplea izatetik oso urrun dago.
+1	Beste	beste	DET	_	_	2	det	_	TokenRange=1081:1086
+2	aldetik	alde	NOUN	_	Case=Abl|Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=1087:1094
+3	,	,	PUNCT	_	_	10	punct	_	TokenRange=1094:1095
+4	animaliek	animalia	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Plur	10	nsubj	_	TokenRange=1096:1105
+5	soinua	soinu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	10	obj	_	SpaceAfter=No|TokenRange=1106:1112
+6	,	,	PUNCT	_	_	7	punct	_	TokenRange=1112:1113
+7	usaina	usain	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	5	conj	_	TokenRange=1114:1120
+8	eta	eta	CCONJ	_	_	9	cc	_	TokenRange=1121:1124
+9	gorputza	gorputz	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	5	conj	_	TokenRange=1125:1133
+10	erabiltzen	erabili	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	TokenRange=1134:1144
+11	dute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	10	aux	_	SpaceAfter=No|TokenRange=1145:1149
+12	;	;	PUNCT	_	_	21	punct	_	TokenRange=1149:1150
+13	sinpleagoa	sinple	ADJ	_	Case=Abs|Definite=Def|Degree=Cmp|Number=Sing	14	xcomp	_	TokenRange=1151:1161
+14	dirudien	iruditu	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	21	advcl	_	TokenRange=1162:1170
+15	arren	arren	CCONJ	_	_	14	mark	_	SpaceAfter=No|TokenRange=1171:1176
+16	,	,	PUNCT	_	_	21	punct	_	TokenRange=1176:1177
+17	sinplea	sinple	ADJ	_	Case=Abs|Definite=Def|Number=Sing	21	advcl	_	TokenRange=1178:1185
+18	izatetik	izan	AUX	_	Case=Cau|Definite=Def|Number=Sing	17	cop	_	TokenRange=1186:1194
+19	oso	oso	ADV	_	_	20	advmod	_	TokenRange=1195:1198
+20	urrun	urrun	ADV	_	_	21	advmod	_	TokenRange=1199:1204
+21	dago	egon	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	10	conj	_	SpaceAfter=No|TokenRange=1205:1209
+22	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1209:1210
+
+# newpar
+# sent_id = 10
+# text = Hizkuntza gaitasuna ez da ikasketaren ondorioa, jaiotzatik dator; hau da, gizakiarekin batera jaiotzen da.
+1	Hizkuntza	hizkuntza	NOUN	_	_	6	nsubj	_	TokenRange=1214:1223
+2	gaitasuna	gaitasun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	6	nsubj	_	TokenRange=1224:1233
+3	ez	ez	PART	_	Polarity=Neg	4	advmod	_	TokenRange=1234:1236
+4	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	6	cop	_	TokenRange=1237:1239
+5	ikasketaren	ikasketa	NOUN	_	Case=Gen|Definite=Def|Number=Sing	6	nmod	_	TokenRange=1240:1251
+6	ondorioa	ondorio	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=1252:1260
+7	,	,	PUNCT	_	_	9	punct	_	TokenRange=1260:1261
+8	jaiotzatik	jaiotza	NOUN	_	Animacy=Inan|Case=Abl|Definite=Def|Number=Sing	9	obl	_	TokenRange=1262:1272
+9	dator	etorri	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	4	conj	_	SpaceAfter=No|TokenRange=1273:1278
+10	;	;	PUNCT	_	_	16	punct	_	TokenRange=1278:1279
+11	hau	hau	DET	_	Case=Abs|Definite=Def|Number=Sing	16	nsubj	_	TokenRange=1280:1283
+12	da	izan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	16	advcl	_	SpaceAfter=No|TokenRange=1284:1286
+13	,	,	PUNCT	_	_	16	punct	_	TokenRange=1286:1287
+14	gizakiarekin	gizaki	NOUN	_	Case=Com	16	obl	_	TokenRange=1288:1300
+15	batera	bat	ADP	_	Animacy=Inan|Case=All|Definite=Def|Number=Sing	14	case	_	TokenRange=1301:1307
+16	jaiotzen	jaio	VERB	_	Aspect=Imp|VerbForm=Inf	4	conj	_	TokenRange=1308:1316
+17	da	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	16	aux	_	SpaceAfter=No|TokenRange=1317:1319
+18	.	.	PUNCT	_	_	6	punct	_	TokenRange=1319:1320
+
+# sent_id = 11
+# text = Gainera, berdin aurkezten da gizaki guztietan, ondorioz, unibertsala dela esan dezakegu.
+1	Gainera	gainera	CCONJ	_	_	4	advmod	_	SpaceAfter=No|TokenRange=1321:1328
+2	,	,	PUNCT	_	_	4	punct	_	TokenRange=1328:1329
+3	berdin	berdin	ADV	_	_	4	advmod	_	TokenRange=1330:1336
+4	aurkezten	aurkeztu	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	TokenRange=1337:1346
+5	da	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	4	aux	_	TokenRange=1347:1349
+6	gizaki	gizaki	NOUN	_	_	4	obl	_	TokenRange=1350:1356
+7	guztietan	guzti	DET	_	Case=Ine|Definite=Def|Number=Plur	6	det	_	SpaceAfter=No|TokenRange=1357:1366
+8	,	,	PUNCT	_	_	13	punct	_	TokenRange=1366:1367
+9	ondorioz	ondorio	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind	12	obl	_	SpaceAfter=No|TokenRange=1368:1376
+10	,	,	PUNCT	_	_	13	punct	_	TokenRange=1376:1377
+11	unibertsala	unibertsal	ADJ	_	Case=Abs|Definite=Def|Number=Sing	13	ccomp	_	TokenRange=1378:1389
+12	dela	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	11	cop	_	TokenRange=1390:1394
+13	esan	esan	VERB	_	VerbForm=Inf	4	conj	_	TokenRange=1395:1399
+14	dezakegu	*ezan	AUX	_	Mood=Pot|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	13	aux	_	SpaceAfter=No|TokenRange=1400:1408
+15	.	.	PUNCT	_	_	4	punct	_	TokenRange=1408:1409
+
+# sent_id = 12
+# text = Hizkuntzak ikasi eta ahaztu egin daitezke, baina hizkuntza gaitasuna ez.
+1	Hizkuntzak	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	2	nsubj	_	TokenRange=1410:1420
+2	ikasi	ikasi	VERB	_	VerbForm=Part	0	root	_	TokenRange=1421:1426
+3	eta	eta	CCONJ	_	_	4	cc	_	TokenRange=1427:1430
+4	ahaztu	ahaztu	VERB	_	VerbForm=Part	2	conj	_	TokenRange=1431:1437
+5	egin	egin	VERB	_	VerbForm=Inf	4	aux	_	TokenRange=1438:1442
+6	daitezke	*edin	AUX	_	Mood=Pot|Number[abs]=Plur|Person[abs]=3	4	aux	_	SpaceAfter=No|TokenRange=1443:1451
+7	,	,	PUNCT	_	_	2	punct	_	TokenRange=1451:1452
+8	baina	baina	CCONJ	_	_	4	cc	_	TokenRange=1453:1458
+9	hizkuntza	hizkuntza	NOUN	_	_	10	nmod	_	TokenRange=1459:1468
+10	gaitasuna	gaitasun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	8	obj	_	TokenRange=1469:1478
+11	ez	ez	PART	_	Polarity=Neg	8	advmod	_	SpaceAfter=No|TokenRange=1479:1481
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1481:1482
+
+# newpar
+# sent_id = 13
+# text = Ferdinand de Saussurerentzat eta estrukturalistentzat erlazio sistema gisa hartu behar da hizkuntza.
+1	Ferdinand	Ferdinand	PROPN	_	_	9	obl	_	TokenRange=1486:1495
+2	de	de	X	_	_	1	flat	_	TokenRange=1496:1498
+3	Saussurerentzat	Saussure	PROPN	_	Case=Ben|Definite=Def|Number=Sing	2	flat	_	TokenRange=1499:1514
+4	eta	eta	CCONJ	_	_	5	cc	_	TokenRange=1515:1518
+5	estrukturalistentzat	estrukturalista	NOUN	_	Case=Ben|Definite=Def|Number=Plur	1	conj	_	TokenRange=1519:1539
+6	erlazio	erlazio	NOUN	_	_	8	nmod	_	TokenRange=1540:1547
+7	sistema	sistema	NOUN	_	_	9	obl	_	TokenRange=1548:1555
+8	gisa	gisa	ADP	_	Animacy=Inan|Case=Abs	7	case	_	TokenRange=1556:1560
+9	hartu	hartu	VERB	_	VerbForm=Part	11	xcomp	_	TokenRange=1561:1566
+10	behar	behar	NOUN	_	Case=Abs|Definite=Ind	11	compound	_	TokenRange=1567:1572
+11	da	izan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	0	root	_	TokenRange=1573:1575
+12	hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=1576:1585
+13	.	.	PUNCT	_	_	11	punct	_	TokenRange=1585:1586
+
+# sent_id = 14
+# text = Sisteman duen tokiaren arabera, hots, beste unitateekin dituen harremanen arabera definitua da hizkuntza unitate bakoitza (fonema, morfema, sintagma).
+1	Sisteman	sistema	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	2	obl	_	TokenRange=1587:1595
+2	duen	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	4	acl	_	TokenRange=1596:1600
+3	tokiaren	toki	NOUN	_	Case=Gen	14	obl	_	TokenRange=1601:1609
+4	arabera	arabera	ADP	_	Animacy=Inan|Definite=Def|Number=Sing	3	case	_	SpaceAfter=No|TokenRange=1610:1617
+5	,	,	PUNCT	_	_	14	punct	_	TokenRange=1617:1618
+6	hots	hots	CCONJ	_	_	14	advmod	_	SpaceAfter=No|TokenRange=1619:1623
+7	,	,	PUNCT	_	_	14	punct	_	TokenRange=1623:1624
+8	beste	beste	DET	_	_	9	det	_	TokenRange=1625:1630
+9	unitateekin	unitate	NOUN	_	Animacy=Inan|Case=Com|Definite=Def|Number=Plur	10	obl	_	TokenRange=1631:1642
+10	dituen	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	4	acl	_	TokenRange=1643:1649
+11	harremanen	harreman	NOUN	_	Case=Gen	14	obl	_	TokenRange=1650:1660
+12	arabera	arabera	ADP	_	Definite=Def|Number=Plur	11	case	_	TokenRange=1661:1668
+13	definitua	definitu	VERB	_	Case=Abs|Definite=Def|Number=Sing|VerbForm=Part	0	root	_	TokenRange=1669:1678
+14	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	13	cop	_	TokenRange=1679:1681
+15	hizkuntza	hizkuntza	NOUN	_	_	16	nmod	_	TokenRange=1682:1691
+16	unitate	unitate	NOUN	_	_	13	nsubj	_	TokenRange=1692:1699
+17	bakoitza	bakoitz	ADJ	_	Case=Abs|Definite=Def|Number=Sing	16	amod	_	TokenRange=1700:1708
+18	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No|TokenRange=1709:1710
+19	fonema	fonema	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	16	appos	_	SpaceAfter=No|TokenRange=1710:1716
+20	,	,	PUNCT	_	_	21	punct	_	TokenRange=1716:1717
+21	morfema	morfema	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	19	conj	_	SpaceAfter=No|TokenRange=1718:1725
+22	,	,	PUNCT	_	_	23	punct	_	TokenRange=1725:1726
+23	sintagma	sintagma	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	19	conj	_	SpaceAfter=No|TokenRange=1727:1735
+24	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No|TokenRange=1735:1736
+25	.	.	PUNCT	_	_	13	punct	_	TokenRange=1736:1737
+
+# sent_id = 15
+# text = Beren baitatik kanpo dagoen sistema hori ikasi eta erabiltzen dute hiztunek.
+1	Beren	berak	DET	_	Case=Gen|Definite=Def|Number=Plur	3	nmod	_	TokenRange=1738:1743
+2	baitatik	_	NOUN	_	Case=Abl	4	obl	_	TokenRange=1744:1752
+3	kanpo	kanpo	ADP	_	Case=Abs|Definite=Def|Number=Sing	2	case	_	TokenRange=1753:1758
+4	dagoen	egon	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	5	acl	_	TokenRange=1759:1765
+5	sistema	sistema	NOUN	_	_	7	obj	_	TokenRange=1766:1773
+6	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing	5	det	_	TokenRange=1774:1778
+7	ikasi	ikasi	VERB	_	VerbForm=Part	0	root	_	TokenRange=1779:1784
+8	eta	eta	CCONJ	_	_	9	cc	_	TokenRange=1785:1788
+9	erabiltzen	erabili	VERB	_	Aspect=Imp|VerbForm=Inf	7	conj	_	TokenRange=1789:1799
+10	dute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	9	aux	_	TokenRange=1800:1804
+11	hiztunek	hiztun	NOUN	_	Case=Erg|Definite=Def|Number=Plur	9	nsubj	_	SpaceAfter=No|TokenRange=1805:1813
+12	.	.	PUNCT	_	_	7	punct	_	TokenRange=1813:1814
+
+# sent_id = 16
+# text = Gizarteak sortu duen zer abstraktua da hizkuntza, hiztunek baliatzen dutelarik hizketan mamitzen dena.
+1	Gizarteak	gizarte	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	2	nsubj	_	TokenRange=1815:1824
+2	sortu	sortu	VERB	_	Aspect=Perf|VerbForm=Part	4	acl	_	TokenRange=1825:1830
+3	duen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	2	aux	_	TokenRange=1831:1835
+4	zer	zer	NOUN	_	_	0	root	_	TokenRange=1836:1839
+5	abstraktua	abstraktu	ADJ	_	Case=Abs|Definite=Def|Number=Sing	4	nmod	_	TokenRange=1840:1850
+6	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	4	cop	_	TokenRange=1851:1853
+7	hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	4	nsubj	_	SpaceAfter=No|TokenRange=1854:1863
+8	,	,	PUNCT	_	_	2	punct	_	TokenRange=1863:1864
+9	hiztunek	hiztun	NOUN	_	Case=Erg|Definite=Def|Number=Plur	10	nsubj	_	TokenRange=1865:1873
+10	baliatzen	baliatu	VERB	_	Aspect=Imp|VerbForm=Inf	13	advcl	_	TokenRange=1874:1883
+11	dutelarik	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	10	aux	_	TokenRange=1884:1893
+12	hizketan	hizketan	NOUN	_	Case=Ine|Definite=Def|Number=Sing	13	obl	_	TokenRange=1894:1902
+13	mamitzen	mamitu	VERB	_	Aspect=Imp|VerbForm=Inf	4	appos	_	TokenRange=1903:1911
+14	dena	izan	AUX	_	Case=Abs|Definite=Def|Mood=Ind|Number=Sing|Number[abs]=Sing|Person[abs]=3	13	aux	_	SpaceAfter=No|TokenRange=1912:1916
+15	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\r\n|TokenRange=1916:1917
+
+# newpar
+# sent_id = 17
+# text = Noam Chomskyren ildotik sortu den hizkuntz teoriaren arabera, berriz, hizkuntza mintzamena da, esan nahi baitu giza banakoek beren baitan sortzez duten mintzatzeko gaitasun berezia.
+1	Noam	Noam	PROPN	_	_	3	nmod	_	TokenRange=1921:1925
+2	Chomskyren	Chomsky	PROPN	_	Case=Gen|Definite=Def|Number=Sing	1	flat	_	TokenRange=1926:1936
+3	ildotik	ildo	NOUN	_	Animacy=Inan|Case=Abl|Definite=Def|Number=Sing	4	obl	_	TokenRange=1937:1944
+4	sortu	sortu	VERB	_	Aspect=Perf|VerbForm=Part	8	acl	_	TokenRange=1945:1950
+5	den	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	4	aux	_	TokenRange=1951:1954
+6	hizkuntz	hizkuntza	NOUN	_	_	8	nmod	_	TokenRange=1955:1963
+7	teoriaren	teoria	NOUN	_	Case=Gen	14	obl	_	TokenRange=1964:1973
+8	arabera	arabera	ADP	_	Definite=Def|Number=Sing	7	case	_	SpaceAfter=No|TokenRange=1974:1981
+9	,	,	PUNCT	_	_	14	punct	_	TokenRange=1981:1982
+10	berriz	berriz	CCONJ	_	_	14	advmod	_	SpaceAfter=No|TokenRange=1983:1989
+11	,	,	PUNCT	_	_	14	punct	_	TokenRange=1989:1990
+12	hizkuntza	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	13	nsubj	_	TokenRange=1991:2000
+13	mintzamena	mintzamena	NOUN	_	Case=Abs|Definite=Def|Number=Sing	0	root	_	TokenRange=2001:2011
+14	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	13	cop	_	SpaceAfter=No|TokenRange=2012:2014
+15	,	,	PUNCT	_	_	13	punct	_	TokenRange=2014:2015
+16	esan	esan	VERB	_	VerbForm=Part	18	xcomp	_	TokenRange=2016:2020
+17	nahi	nahi	NOUN	_	Case=Abs|Definite=Ind	18	compound	_	TokenRange=2021:2025
+18	baitu	ukan	VERB	_	_	14	advcl	_	TokenRange=2026:2031
+19	giza	giza	NOUN	_	_	23	nsubj	_	TokenRange=2032:2036
+20	banakoek	banako	ADJ	_	Case=Erg|Definite=Def|Number=Plur	19	amod	_	TokenRange=2037:2045
+21	beren	berak	DET	_	Case=Gen	23	obl	_	TokenRange=2046:2051
+22	baitan	_	ADP	_	Case=Ine|Number=Sing	21	case	_	TokenRange=2052:2058
+23	sortzez	sortu	VERB	_	Aspect=Imp|VerbForm=Inf	25	ccomp	_	TokenRange=2059:2066
+24	duten	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	23	aux	_	TokenRange=2067:2072
+25	mintzatzeko	mintzatu	VERB	_	Case=Loc	26	advcl	_	TokenRange=2073:2084
+26	gaitasun	gaitasun	NOUN	_	_	18	obj	_	TokenRange=2085:2093
+27	berezia	berezi	ADJ	_	Case=Abs|Definite=Def|Number=Sing	26	amod	_	SpaceAfter=No|TokenRange=2094:2101
+28	.	.	PUNCT	_	_	13	punct	_	TokenRange=2101:2102
+
+# sent_id = 18
+# text = Ikusmolde horretan, izaera psikikoa du, bera, hizkuntzak, hiztunek ingurumenaren arabera garatzen baitute beren baitako hizkuntz gaitasuna.
+1	Ikusmolde	ikusmolde	NOUN	_	_	6	obl	_	TokenRange=2103:2112
+2	horretan	hori	DET	_	Case=Ine|Definite=Def|Number=Sing	1	det	_	SpaceAfter=No|TokenRange=2113:2121
+3	,	,	PUNCT	_	_	6	punct	_	TokenRange=2121:2122
+4	izaera	izaera	NOUN	_	_	6	obj	_	TokenRange=2123:2129
+5	psikikoa	psikiko	ADJ	_	Case=Abs|Definite=Def|Number=Sing	4	amod	_	TokenRange=2130:2138
+6	du	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	0	root	_	SpaceAfter=No|TokenRange=2139:2141
+7	,	,	PUNCT	_	_	15	punct	_	TokenRange=2141:2142
+8	bera	bera	DET	_	Case=Abs|Definite=Def|Number=Sing	15	obj	_	SpaceAfter=No|TokenRange=2143:2147
+9	,	,	PUNCT	_	_	10	punct	_	TokenRange=2147:2148
+10	hizkuntzak	hizkuntza	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	8	conj	_	SpaceAfter=No|TokenRange=2149:2159
+11	,	,	PUNCT	_	_	15	punct	_	TokenRange=2159:2160
+12	hiztunek	hiztun	NOUN	_	Case=Erg|Definite=Def|Number=Plur	15	nsubj	_	TokenRange=2161:2169
+13	ingurumenaren	ingurumen	NOUN	_	Case=Gen	15	obl	_	TokenRange=2170:2183
+14	arabera	arabera	ADP	_	Animacy=Inan|Definite=Def|Number=Sing	13	case	_	TokenRange=2184:2191
+15	garatzen	garatu	VERB	_	Aspect=Imp|VerbForm=Inf	6	advcl	_	TokenRange=2192:2200
+16	baitute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	15	aux	_	TokenRange=2201:2208
+17	beren	berak	DET	_	Case=Gen	20	nmod	_	TokenRange=2209:2214
+18	baitako	_	ADP	_	Case=Loc|Definite=Def|Number=Plur	17	case	_	TokenRange=2215:2222
+19	hizkuntz	hizkuntza	NOUN	_	_	20	nmod	_	TokenRange=2223:2231
+20	gaitasuna	gaitasun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	15	obj	_	SpaceAfter=No|TokenRange=2232:2241
+21	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No|TokenRange=2241:2242
