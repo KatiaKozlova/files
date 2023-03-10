@@ -1,0 +1,1341 @@
+1	first person
+2	second person
+3	third person
+&	coordination marker
+1DU	first dual
+1O	first person object
+1OBJ	first person object
+1PL	first person plural
+1PLO	first person plural object
+1PLOBJ	first person plural object
+1PLS	first person plural subject
+1PLSUBJ	first person plural subject
+1PROX	first person proximate (close to speaker)
+1S	first person subject
+1SG	first person singular
+1SGO	first person singular object
+1SGOBJ	first person singular object
+1SGS	first person singular subject
+1SGSUBJ	first person singular subject
+1SUBJ	first person subject
+2DU	second dual
+2PROX	second person proximate (close to hearer)
+2SG	second person singular
+2SGO	second person singular subject
+2SGOBJ	second person singular subject
+2SGS	second person singular object
+2SGSUBJ	second person singular object
+3DU	third dual
+3F	third person feminine
+3M	third person masculine
+3N	third person neutral
+3O	third person subject agreement
+3OBJ	third person object agreement
+3PL	third person plural
+3S	third person subject agreement
+3SG	third person singular
+3SUBJ	third person subject agreement
+A	agent-like argument of canonical transitive verb
+ABE	abessive
+ABESS	abessive
+ABL	ablative
+ABS	absolutive
+ABSEN	absentive
+ABSL	absolute case
+ABST	abstractive
+ABSTR	abstract
+ABSV	absentive
+ACC	accusative
+ACCMP	accomplishment
+ACCOM	accompanier
+ACD	antecedent contained deletion
+ACH	achievement
+ACT	active
+AD	addressee
+AD	adessive
+AD	near
+ADAP	adaptive
+ADD	additive
+ADDIT	additive
+ADDR	addressee
+ADDR	addressive
+ADE	adessive
+ADEL	adelative
+ADESS	adessive
+ADJ	adjective
+ADJ	adjectivizer
+ADJ	adjunct
+ADJR	adjectivizer
+ADJZ	adjectivizer
+ADM	admirative
+ADM	admonitive
+ADMON	admonitive
+ADN	adnominal
+ADN	adnominalizer
+ADR	addressive
+ADV	adverb
+ADV	adverbial
+ADV	adverbializer
+ADVER	adversative
+ADVR	adverbializer
+ADVRS	adversative
+ADVRST	adversative
+ADVS	adversative
+ADVZ	adverbializer
+ADVZR	adverbializer
+AE	argument ellipsis
+AEQ	aequalis
+AF	agent focus
+AFF	affirmative
+AFF	affix
+AFFECT	affectionate
+AFFT	affective
+AG	agent
+AG	agentive
+AGR	agreement
+AGT	agent
+AGT	agentive
+AI	adversity impersonal
+AI	intransitive animate
+AJC	adjacent
+AL	alienable
+ALIEN	alienable
+ALL	allative
+ALL	allocative
+ALL	allomorph
+ALLOC	allocutive
+ALT	alternative
+ALTER	alterphoric
+AMBIPH	ambiphoric
+AMP	amplifier
+AN	animate
+ANA	anaphoric
+ANAPH	anaphoric
+AND	andative
+ANI	animate
+ANIM	animate
+ANM	animate
+ANP	anaphoric
+ANT	in front of
+ANTC	anticipatory
+ANTDIR	antedirective
+ANTE	in front of
+ANTEL	anteelative
+ANTESS	antessive
+ANTIC	anticausative
+ANTIC	anticipatory
+ANTIP	antipassive
+ANTLAT	antelative
+ANZ	adnominalizer
+AOR	aorist
+AP	antipassive
+AP	applicative
+APASS	antipassive
+APL	applicative
+APL	apudlative
+APP	applicative
+APPL	applicative
+APPOS	apposition
+APPR	apprehensive
+APPR	approximative
+APPROB	approbation
+APR	apprehensive
+APRX	approximative
+APUD	near, in the vicinity of
+AR	areal
+AREA	areal
+ARG	argumentative
+ART	article
+AS	aseverative
+ASC	associative
+ASP	aspect
+ASRT	assertive
+ASS	assertive
+ASS	associative
+ASSC	associative
+ASSERT	assertive
+ASSOC	associative
+ASST	assertive
+ASSU	assumptive
+ASSUM	assumptive
+AST	assistive
+ASYM	asymmetric
+ATEL	atelic
+ATR	attributive
+ATT	attenuative
+ATTEN	attenuative
+ATTN	attenuative
+ATTR	attributive
+AUD	auditive
+AUG	augment
+AUG	augmentative
+AUX	auxiliary
+AV	agent voice
+AVERS	aversive
+AVERT	avertive
+AVR	aversive
+AVS	adversative
+AVZ	adverbalizer
+BCKG	background
+BEN	benefactive
+BENEF	benefactive
+BG	background
+BI	bavalent
+BN	Bare Numeral
+BOT	bottom
+BR	bound root
+BV	beneficiary
+CAR	caritive
+CARD	cardinal
+CARIT	caritive
+CAU	causal
+CAUS	causative
+CCNJ	clausal conjunction
+CENT	centric
+CERT	certainty
+CESS	cessative
+CF	contrastive focus
+CFOC	contrastive focus
+CHR	cohortative
+CIRC	circumstantial
+CIRC	circumstantive
+CIRCG	cirumgressive
+CIRCUM	circumstantial
+CIRCUM	circumstantive
+CIS	cislocative
+CISL	cislocative
+CISLOC	cislocative
+CJ	conjoint
+CJT	conjoint
+CL	classifier
+CL	clitic
+CLASS	classifier
+CLF	classifier
+CLFSR	classifier
+CLS	classifier
+CLTC	clitic
+CM	class marker
+CMP	comparative
+CMP	completive
+CMPAR	comparative
+CMPD	compound
+CMPL	completive
+CMPLT	completive
+CMPR	comparative
+CMT	comitative
+CNCT	connector
+CNEG	connegative
+CNG	connegative
+CNJ	conjunction
+CNS	consequential
+CNSQ	consequential
+CNTF	counterfactual
+CNTG	contiguous
+CNTR	contrastive
+CNTR	counter-assertive
+CNTV	conative
+COL	collective
+COLL	collective
+COM	comitative
+COM	comparative
+COMIT	comitative
+COMP	comparative
+COMP	complementizer
+COMP	completive
+COMPL	completive
+COMPLET	completive
+COMPR	comparative
+COMPUL	compulsional
+CON	conative
+CON	conditional
+CONC	concessive
+CONCESS	concessive
+COND	conditional
+CONF	confirmative
+CONJ	conjunction
+CONJC	conjectural
+CONJUN	conjunction
+CONN	connective
+CONR	connector
+CONS	consequential
+CONT	contentive
+CONT	continuative
+CONT	contrastive
+CONT	on a verticle surface
+CONTEMP	contemporative
+CONTR	contrastive
+CONV	converb
+COOP	cooperative
+COORD	coordinative
+COP	copula
+COR	coreferential
+COTEMP	contemporative
+CP	completive
+CPL	complementizer
+CPL	completive
+CRAS	crastinal
+CSO	cosubordinator
+CT	contrastive topic
+CTEMP	contemporative
+CTEXP	contraexpectative
+CTG	contingent
+CTM	contemporative
+CTR	contrastive topic
+CTRFCT	counterfactual
+CV	circumstantial
+CV	conveyance
+CVB	converb
+D	definiteness
+D	determiner
+DAT	dative
+DBT	dubitative
+DCL	declarative
+DE	different event
+DEAG	deagentive
+DEB	debitive
+DEC	decausative
+DEC	declarative
+DECL	declarative
+DED	deductive
+DEF	definite
+DEFIN	definitive
+DEFOC	defocus
+DEFR	deferential
+DEIC	deictic
+DEL	delative
+DEL	deliberative
+DEM	demonstrative
+DENOM	denominal
+DEO	deontic
+DEOBJ	deobjective
+DEONT	deontic
+DEP	dependent
+DER	derivation
+DERIV	derivation
+DES	desiderative
+DESI	desiderative
+DESID	desiderative
+DEST	destinative
+DET	determiner
+DETR	detransitive
+DFLT	default
+DH	downhill, seaward
+DI	dual inclusive
+DIM	diminutive
+DIMIN	diminutive
+DIR	directional
+DIR	directive
+DIREC	directional
+DIS	dislocative
+DISC	discontinuative
+DISC	discourse marker
+DISCNT	discontinuative
+DISCONT	discontinuative
+DISJ	disjunction
+DIST	distal
+DISTR	distributive
+DISTR	distributive plural
+DITR	ditransitive
+DIV	diversative
+DL	dual
+DLM	delimitative
+DM	directive
+DN	deverbal noun
+DO	direct object
+DOM	differential object marking
+DOM	direct-object marker
+DON	donative
+DOWN	downward
+DOX	doxastic
+DP	distant past
+DPAST	direct past
+DPC	distant past continuative
+DPRO	demonstrative pronoun
+DR	different reference
+DR	downriver
+DSC	discontinuative
+DSM	differential subject marking
+DST	distal
+DSTL	distal
+DT	different taxis
+DTR	detrimentary
+DTRNZ	detransitivizer
+DU	dual
+DUB	dubitative
+DUBIT	dubitative
+DUP	reduplication
+DUPLIC	duplicative
+DUR	durative
+DWN	downward
+DY	dyadic
+DYAD	dyadic
+DYN	dynamic
+DYNM	dynamic
+EA	epistemic authority
+ECM	exceptional case marking
+EFF	effector
+EFOC	extra-focal
+EGO	egophoric
+EGR	egressive
+EL	elative
+ELA	elative
+ELAT	elative
+EMO	emotive
+EMOT	emotive
+EMP	emphatic
+EMPH	emphatic
+ENCL	enclitic
+ENDO	endopathic
+ENZ	enunciative
+EP	epenthetic
+EPENT	epenthetic
+EPENTH	epenthetic
+EPI	epistemic
+EPIS	epistemic
+EPIST	epistemic
+EPTH	epenthentic
+EQ	equative
+EQL	equative
+EQTV	equative
+EQU	equative
+ERG	ergative
+ESS	essive
+ETOP	emphatic topic
+EV	epenthetic vowel
+EV	evidential
+EV	experiencer voice
+EVD	evidential
+EVI	evidential
+EVID	evidential
+EVIT	evitative
+EVT	eventual
+EXAL	exaltive
+EXC	excessive
+EXC	exclamative
+EXCL	exclamative
+EXCL	exclusive
+EXCLAM	exclamative
+EXCLM	exclamative
+EXEC	executive
+EXESS	exessive
+EXFOC	extra-focal
+EXH	exhaustifier
+EXH	exhortative
+EXHORT	exhortative
+EXIS	existential
+EXIST	existential
+EXO	exocentric
+EXP	experiencer
+EXP	experiential
+EXPECT	expectational
+EXPER	experiencer
+EXPER	experiential
+EXPL	expletive
+EXPR	expressive
+EXS	existential
+EXT	extended
+EXT	extent
+EXT	external evidential
+EZF	ezafe
+F	feminine
+FAC	factitive
+FAC	factive
+FACT	factative
+FACT	factitive
+FACT	factive
+FAM	familiar
+FCL	facilitive
+FDU	female dual
+FEM	feminine
+FH	firsthand
+FI	feminine indefinite
+FIN	finalis
+FIN	finite
+FIRSTH	firsthand
+FNP	finite non-past
+FOC	focus
+FOR	formal
+FORM	formal
+FP	far past
+FPL	female plural
+FPRT	future participle
+FPST	far past
+FR	frustrative
+FRACT	fractional
+FREQ	frequentative
+FRM	formal
+FRML	formal
+FRQ	frequentative
+FRST	frustrative
+FRT	front
+FRUS	frustrative
+FRUST	frustrative
+FS	false start
+FSG	female singular
+FTV	factative
+FUNC	functional
+FUNC	functive
+FUT	future
+GEN	genitive
+GENER	generic
+GENR	generic
+GENRL	generic
+GENZ	generalized
+GER	gerund
+GIV	given
+GKN	general knowledge
+GNO	gnomic
+GNR	generic
+GNRL	generic
+GNT	general tense
+GOAL	goal
+GPST	general past
+GRD	gerund
+GRND	gerund
+GV	goal voice
+H	head
+H	hearer
+H	human
+HAB	habitual
+HABIT	habitual
+HBL	habilitive
+HCR	hypocoristic
+HDU	human dual
+HES	hesitation
+HESIT	hesitation
+HEST	hesternal
+HIST	historical
+HML	humilitive
+HNDR	number of hundreds
+HNR	honorific
+HOD	hodiernal
+HON	honorific
+HOR	horizon of interest
+HOR	horizontal
+HORT	hortative
+HORZ	horizontal
+HPL	human plural
+HR	heard
+HRS	hearsay
+HRSY	hearsay
+HSG	human singular
+HSY	hearsay/reported evidential
+HUM	human
+HUM	humilitive
+HYP	hypothetical
+HYPO	hypothetical
+HYPOTH	hypothetical
+I	class I
+IA	indirect agent
+IA	involuntary agent 
+IAM	iametive
+IC	inderective copula
+IC	inflection class
+IC	involuntary causative
+ICOM	involuntary comitative
+ICP	incompletive
+ICVB	imperfective converb
+IDENT	identical
+IDENTIF	identifiable
+IDEO	ideophone
+IDEOPH	ideophone
+IDF	indefinite
+IDPH	ideophone
+IFUT	indefinite future
+IGN	ignorative
+IGNOR	ignorative
+II	class II
+III	class III
+ILL	illative
+ILLA	illative
+ILLAT	illative
+IM	immediate
+IM	interrogative mark
+IMI	impersonal infinitive
+IMM	immediate
+IMMED	immediate
+IMN	imminent
+IMP	imperative
+IMP	imperfect
+IMP	imperfective
+IMP	impersonal
+IMPERF	imperfective
+IMPERS	impersonal
+IMPF	imperfect
+IMPF	imperfective
+IMPL	implicative
+IMPOSS	modal impossibility
+IMPOT	impotential
+IMPR	impersonal
+IMPR	imprecative
+IMPREC	imprecative
+IMPRF	imperfective
+IMPRS	impersonal
+IMPV	imperfective
+IN	in a container
+IN	inclusive
+IN	inessive
+INAB	impotential
+INABL	inablative
+INACT	inactive
+INAL	inalienable
+INAN	inanimate
+INANI	inanimate
+INANIM	inanimate
+INC	inceptive
+INC	inchoative
+INC	inclusive
+INC	incompletive
+INC	incompletive
+INC	increment
+INCEP	inceptive
+INCH	inchoative
+INCHO	inchoative
+INCIP	inceptive
+INCL	inclusive
+INCMP	incompletive
+INCMPL	incompletive
+INCOMPL	incompletive
+INCP	inceptive
+INCPL	incompletive
+IND	indefinite
+IND	independent
+IND	indicative
+INDCAUS	indirect causative
+INDEF	indefinite
+INDEP	independent
+INDET	indeterminate
+INDF	indefinite
+INDH	indefinite human
+INDIC	indicative
+INDIR	indirective
+INDIV	individualizer
+INDN	indefinite non-human
+INDP	independent
+INE	inessive
+INEL	inelative
+INES	inessive
+INESS	inessive
+INF	infinitive
+INFER	inferential
+INFERN	inferential
+INFL	inflectional
+INFR	inferential
+ING	ingressive
+INGR	ingressive
+INH	inchoative
+INJ	interjection
+INS	instantiated
+INS	instrumental
+INST	instrumental
+INSTR	instrumental
+INT	interrogative
+INTEN	intensifier
+INTEN	intentional
+INTENS	intensifier
+INTENTV	intentive
+INTER	within (a solid object)
+INTERESS	interessive
+INTERJ	interjection
+INTERP	interpellative
+INTERR	interrogative
+INTERROG	interrogative
+INTF	interfix
+INTJ	interjection
+INTL	intentional
+INTN	intensifier
+INTNS	intensifier
+INTR	intransitive
+INTRJ	interjection
+INTRST	compliment of interest
+INTRV	introversive
+INTS	intensifier
+INTV	intentive
+INV	inverse
+INVIS	invisible
+INVN	inverse number
+INW	inward
+IO	indirect object
+IOBJ	indirect object
+IP	immediate past
+IPAST	indirective past
+IPD	impeditive
+IPF	imperfective
+IPFV	imperfective
+IPS	impersonal
+IPS	impersonalizer
+IQ	indirect question
+IR	irrealis
+IRLS	irrealis
+IRR	irrealis
+IRREAL	irrealis
+IRREL	irrelevence
+IRRELEV	irrelevence
+IS	immediate scope
+IS	impersonal subject
+IS	indirect speech
+IT	itive
+ITE	iterative
+ITER	iterative
+ITG	intangible
+ITIV	itive
+ITM	intermittent
+ITR	intransitive
+ITV	itive
+IV	class IV
+IVC	impersonal verb construction
+IX	class IX
+IZAF	izafet
+JUS	jussive
+JUSS	jussive
+KIN	kinship
+KNWN	known
+L	local (exophoric) person
+LAT	lative
+LCL	limited control
+LCV	locative
+LH	left hand
+LIG	ligature
+LIM	limitative
+LINK	linker
+LK	linker
+LKLY	likely
+LL	land gender
+LL	lower level
+LM	landmark
+LMT	limitative
+LNK	linker
+LOAN	loanword
+LOC	locative
+LOG	logophor
+LOQ	delocutive
+LS	lexical stem
+LV	location voice
+M	masculine
+MAL	malefactive
+MAN	manner
+MASC	masculine
+MASD	masdar
+MDU	male dual
+MEA	measure
+MED	medial
+MED	mediative
+MID	mediopassive
+MID	middle voice
+MIM	mimetic
+MIN	minimal
+MIR	mirative
+MIRN	negative mirative
+MIS	miscellaneous gender
+MIT	mitigation
+MIXED	mixed declension class
+MLOC	modal locative
+MLTP	multiplicative
+MOD	modal
+MOD	modalis
+MOD	modifier
+MOM	momentane
+MONO	monofocal person
+MOT	motion
+MOV	movement
+MP	modal particle
+MPL	male plural
+MSD	masdar
+MSG	male singular
+MUL	multiplicative
+MULT	multal
+MULT	multiplicative
+MVMT	movoment
+MVR	mover
+N	neuter
+NACT	non-active
+NARR	narrative
+NC	noncontrol
+NC	noun class
+NCOMPL	incompletive
+NDEF	indefinite
+NDU	neutral dual
+NEC	necessitative
+NEG	negation
+NEGAT	negatory
+NEGO	non-egophoric
+NEU	neuter
+NEUT	neuter
+NEX	non-extended
+NF	non-final
+NF	non-finite
+NFH	non-firsthand
+NFIN	non-finite
+NFUT	non-future
+NH	non-human
+NHON	non-honorific
+NL	nominalizer
+NM	non-masculine
+NMASC	non-masculine
+NML	nominalizer
+NMLZ	nominalization
+NMLZ	nominalizer
+NMM	non-manual marker
+NMZ	nominalizer
+NOM	nominative
+NONAGR	nonagreeing
+NONIN	noninstigational
+NONP	non-past
+NONREFL	non-reflexive
+NONSUBJ	non-subject
+NONVOL	non-volitional
+NOT.VIS	not visible
+NP	noun phrase
+NPFV	imperfective
+NPI	negative polarity item
+NPL	neutral plural
+NPOSS	non-possesed
+NPST	non-past
+NR	near
+NS	non-singular
+NS	null subject
+NSBJ	non-subject
+NSG	neutral singular
+NSG	non-singular
+NT	neuter
+NTEL	atelic
+NTL	neutral direction 
+NTR	neutral
+NTS	non-topical subject
+NUM	numeral
+NV	neutral version
+NVEXP	nonvisual experiential
+NVIS	non-visual
+NVOL	nonvolitional
+NW	non-witnessed
+O	object
+OBJ	object
+OBJV	objective
+OBL	oblique
+OBS	observation
+OBV	obviative
+OINV	inverted object
+ONOM	onomatopoeia
+OPP	opposite
+OPT	optative
+OR	orientation
+ORD	ordinal
+ORIG	originative
+OS	oblique stem
+OUT	outward
+OV	objective version
+P	patient-like argument of a canonical transitive verb
+PA	paucal
+PABS	past absolutive
+PAR	particle
+PAR	partitive
+PART	participle
+PART	particle
+PART	partitive
+PARTVE	partitive
+PASS	passive
+PAST	past tense
+PASTP	past participle
+PAT	patientive
+PAU	paucal number
+PAUC	paucal number
+PAUS	pausal
+PC	concord particle
+PC	past completive
+PCP	completive participle
+PCP	participatory evidence
+PCPT	participle
+PE	previous event
+PEG	pegative
+PEJ	pejorative
+PERAMB	perambulative
+PERF	perfect
+PERF	perfective
+PERFORM	performative
+PERFV	perfective
+PERI	peripheral
+PERL	perlative
+PERM	permanent
+PERS	persistive
+PERS	personal
+PERSE	personal experience
+PERSIS	persistive
+PERT	pertensive
+PERV	pervasive
+PF	perfective
+PFT	perfect
+PFV	perfective
+PFX	prefix
+PHAB	past habitual
+PHAS	phasal aspect
+PIMPF	progressive imperfective
+PIMPV	past imperfective
+PINF	physical inferential
+PK	personal knowledge
+PL	plural
+PLEX	plural exclusive
+PLPERF	pluperfect
+PLR	pluractional
+PLU	pluperfect
+PLU	pluractional
+PLUP	pluperfect
+PLUPERF	pluperfect
+PLUPRF	pluperfect
+PLUR	pluractional
+PLUR	plural
+PLURAC	pluractional
+PM	possessum
+PN	proper name
+PNC	punctual
+PNCL	punctual
+PNCT	punctual
+PO	primary object
+PODIR	postdirective
+POEL	postelative
+POESS	postessive
+POL	polite
+POS	positive
+POSB	possible
+POSS	possessive
+POSS	possessor
+POSSB	possible
+POSSD	possessed
+POSSIB	possible
+POST	postlocative
+POST	postposition
+POSTE	postessive
+POSTEL	postelative
+POSTESS	postessive
+POSTL	postlative
+POSTP	postposition
+POT	potential
+POTEN	potential
+PP	past perfect
+PP	pragmatic particle
+PP	predicative possessive particle
+PP	present progressive
+PPA	active perfect participle
+PPART	past participle
+PPAST	post-terminal past
+PPERF	pluperfect
+PPF	perfect participle
+PPFV	past perfective
+PPP	past passive participle
+PPP	past perfect participle
+PPRF	pluperfect
+PPRT	past participle
+PPS	pseudo-passive
+PQ	polar question
+PR	possessor
+PR	pragmatic
+PRC	precedence
+PRE	prefix
+PREC	precative
+PREC	precision
+PREC	precondition
+PRECON	precondition
+PRED	predicative
+PREDICT	prediction
+PREP	preposition
+PRES	present
+PRET	preterite
+PREV	preverb
+PREV	previous
+PREVEN	preventative
+PRF	perfect
+PRF	perfective
+PRFRM	performative
+PRFX	prefix
+PRG	progressive
+PRIOR	prior
+PRL	prolative
+PRN	pronominalizer
+PRN	pronoun
+PRO	pronominal base, proform
+PROB	probabilitive
+PROCOMP	procomplement
+PROD	product verbalizer
+PROG	progressive
+PROGR	progressive
+PROH	prohibitive
+PROHIB	prohibitive
+PROJ	projective
+PROL	prolative
+PROL	prolonged action
+PROLAT	prolative
+PRON	pronoun
+PROP	propositive
+PROP	proprietive
+PROPN	proper name
+PROPOS	propositive
+PROS	prosecutive
+PROS	prospective
+PROSEC	prosecutive
+PROSP	prospective
+PROT	protasis
+PROV	pro-verb
+PROX	proximal
+PRP	purposive
+PRS	present
+PRSV	presentative
+PRT	particle
+PRTC	particle
+PRTCP	participle
+PRTV	partitive
+PRV	perfective
+PRX	proximal
+PS	passing state 
+PSS	passive
+PSSM	possessum
+PSSR	possessor
+PST	past
+PSTN	past nominalization
+PSTPERF	past perfect
+PT	presentative
+PTC	particle
+PTCL	particle
+PTCP	participle
+PTH	path
+PTT	partitive
+PTV	partitive
+PUNC	punctual
+PUNCT	punctuation
+PUR	purposive
+PURP	purposive
+PV	patient voice
+PV	pivot form
+PV	possessive verbalizer
+PVB	preverb
+PVF	perfective
+PVP	post-verbal particle
+PX	possessive suffix
+Q	question
+QM	quantity marker
+QNT	quantifier
+QST	question
+QT	quotative
+QUAL	qualifier
+QUANT	quantifier
+QUES	question
+QUEST	question
+QUO	quotative
+QUOT	quotative
+R	rational
+R	realis
+RA	relative agreement
+RA	repeated action
+RAR	raritive
+RC	relative clause
+RCP	reciprocal
+RCT	recent
+RDP	reduplication
+RDPL	reduplication
+RE	refactive
+REA	reactive
+REAL	realis
+REC	recent
+REC	receptive
+REC	reciprocal
+RECIP	reciprocal
+RECIPR	reciprocal
+RECP	reciprocal
+RED	reduplication
+REDUP	reduplication
+REF	referential
+REFL	reflexive
+REFLX	reflexive
+REG	regal
+REG	regressive
+REGR	regressive
+REL	relational
+REL	relative
+REL	relativizer
+RELEV	relevance
+REM	remote
+REP	repeated
+REP	repetitive
+REP	reportative
+RES	resignative
+RES	resultative
+RES	resumptive pronoun
+RESID	residue
+RESP	respect
+RESP	responsive
+REST	restrictive
+RESTR	restrictive
+RESU	resultative
+RESULT	resultative
+RET	retrospective
+RETRO	retrospective
+REV	reverential
+REV	reversative
+REV	revisionary
+REVID	reported evidential
+RFL	reflexive
+RFLEX	reflexive
+RFLX	reflexive
+RFR	referential
+RH	right hand
+RHET	rhetorical question
+RL	realis
+RLN	relational
+RLS	realis
+RMT	remote
+ROOT	root
+ROY	royal
+RP	recent past
+RP	remote past
+RP	resumptive pronoun
+RPC	remote past continuous
+RPI	remote past inferred
+RPL	rational plural
+RPR	remote past reported
+RPRT	reported evidential
+RPST	remote past
+RPT	reported evidential
+RQ	rhetorical question
+RQT	rhetorical question
+RSG	rational singular
+RSM	resumptive pronoun
+RSN	reason
+RST	restrictive
+RSTR	restrictive
+RVZ	relativizer
+S	single argument of canonical intransitive verb
+SAL	salient
+SBDIR	sublative
+SBEL	subelative
+SBEN	self-benefactive
+SBESS	subessive
+SBJ	subject
+SBJT	subject
+SBJV	subjunctive
+SBRD	subordinator
+SBST	substuntivizer
+SBV	subjective
+SCEP	sceptical
+SD	suden-discovery
+SEC	second hand
+SEJ	sejunct
+SEL	selective
+SEM	semelfactive
+SEMBL	semblative
+SEMEL	semelfactive
+SEN	sensory evidential
+SENS	sensive
+SENS	sensory evidential
+SEP	separative
+SEQ	sequential
+SER	serial
+SF	subject focus
+SFN	softener
+SFX	suffix
+SG	singular
+SGLT	singulative number
+SGT	singulative number
+SGV	singulative number
+SH	subhect honorific
+SIM	similative
+SIM	simultaneous
+SIMV	similative
+SING	singular
+SING	singulative number
+SINGL	singulative number
+SINV	inverted subject
+SIT	situative
+SJV	subjunctive
+SL	same level
+SM	series marker
+SMBL	semblative
+SMI	semeliterative
+SML	similative
+SMLF	semelfactive
+SNS	sensory evidential
+SO	same object
+SOC	sociative
+SP	speaker
+SP	specific
+SPART	subject partitive
+SPC	specific
+SPCF	specific
+SPEC	specific
+SPEC	specifier
+SPECFC	specific
+SPECFR	specifier
+SPL	spotlighting
+SPL	superlative
+SPP	suppositive
+SPR	superlocative
+SPRESS	superessive
+SPRL	superlative
+SR	switch-reference
+SRC	source
+SRC	subject relative clause
+SRDIR	superlative
+SREL	superlative
+SRESS	superessive
+SRP	self-reporting pronoun
+SS	same subject
+ST	stative
+STA	stative
+STAT	stative
+STEM	stem
+STIM	stimulative
+STT	stative
+STV	stative
+SUB	sublocative
+SUB	subordinator
+SUBDIR	sublative
+SUBE	subessive
+SUBEL	subelative
+SUBESS	subessive
+SUBJ	subject
+SUBJ	subjective
+SUBJ	subjunctive
+SUBJV	subjunctive
+SUBL	sublative
+SUBLAT	sublative
+SUBORD	subordinator
+SUBR	subordinator
+SUBS	subsequent
+SUBSEC	suvsecutive
+SUBST	substitutive
+SUC	successive
+SUF	suffix
+SUFF	suffix
+SUG	suggestive
+SUP	superessive
+SUP	superlative
+SUP	supine
+SUP	supplucative
+SUPDIR	superlative
+SUPE	superessive
+SUPEL	superlative
+SUPER	superlative
+SUPER	superlocative
+SUPEREL	superlative
+SUPERESS	superessive
+SUPERL	superlative
+SUPL	superlative
+SUPL	supplucative
+SUPLAT	superlative
+SUPPL	supplucative
+SURP	surprise
+SYM	symmetric
+T	temporal
+T	tense
+TAG	tag question
+TAM	tense/aspect/mood marker
+TEL	telic
+TEM	temporal
+TEMP	temporal
+TEMP	temporarily
+TENS	tens
+TENT	tentative
+TER	terminative
+TERM	terminative
+TERMIN	terminative
+TH	thematic
+TJ	trajector
+TKN	teknonym
+TND	tendency
+TNS	tense
+TOP	topic
+TOT	totalitative
+TPC	topic
+TR	trajector
+TR	transitive
+TRA	translative
+TRA	translocative
+TRANS	transformative
+TRANS	transitive
+TRANSF	transformative
+TRANSL	translative
+TRANSL	translocative
+TRANSLAT	translative
+TRANSLOC	translocative
+TRI	trial number
+TRM	transmutative
+TRN	transnumeral
+TRNS	transitive
+TRNSF	transformative
+TRNSL	translative
+TRNSL	translocative
+TRPOSS	tranfer of possession
+TRZ	transitivizer
+TS	topic shift
+TVF	truth value focus
+TZ	transitivizer
+UC	upcoast
+UF	uncertain future
+UF	undergoer focus
+UGR	undergoer
+UH	uphill
+UL	upper level
+UNACC	unaccusative
+UNCERT	uncertain
+UNERG	unergative
+UNIF	unified
+UNM	unmarked case
+UNPOSS	non-possesed
+UNSP	unspecified
+UNSPEC	unspecified
+UNW	unwillingness
+UNW	unwitnessed
+UP	upward
+UR	upriver
+USIT	usitative
+UTIL	utilitive
+UV	uncertain visual
+UV	undergoer voice
+UWPST	unwitnessed past
+V	class V
+V	verb
+V	viewer
+VA	verbal adjective
+VBLZ	verbalizer
+VBLZR	verbalizer
+VBZ	verbalizer
+VBZR	verbalizer
+VCO	voluntary comitative
+VE	vegetable gender
+VEN	venitive
+VENT	venitive
+VER	verdical
+VERBL	verbalizer
+VERIF	verificative
+VERS	versionizer
+VERT	vertical
+VEVID	visual evidential
+VI	class VI
+VIA	vialis
+VII	class VII
+VIII	class VIII
+VIR	virile
+VIRT	vertual
+VIS	visible
+VIS	visual
+VLOC	verbal locative
+VM	verbal modifier
+VN	verbal noun
+VOC	vocative
+VOL	volitional
+VPL	pluractional
+WH	interrogative pronoun
+WHQ	wh-question
+WIT	witnessed
+WP	witnessed past
+WPST	witnessed past
+X	class X
+XI	class XI
+XII	class XII
+XIII	class XIII
+XIV	class XIV
+XIX	class XIX
+XV	class XV
+XVI	class XVI
+XVII	class XVII
+XVIII	class XVIII
+XX	class XX
+YNQ	yes-no question
+ZO	zoic
