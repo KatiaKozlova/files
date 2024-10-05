@@ -76,7 +76,24 @@ exec_globals = func.__globals__.copy()
 exec(modified_code, exec_globals)
 modified_func = exec_globals[func.__name__]
 ```
-
+- Искать аргументы стоит при помощи регулярного выражения:
+```
+(?P<arg>
+    (?:'[^']*'                                 # Single-quoted string
+    |"[^"]*"                                   # Double-quoted string
+    |\d+                                       # Number
+    |True|False|None                           # Boolean and None
+    |[a-zA-Z_]\w*                              # Variable name
+    ) 
+)
+|
+(?P<kwarg>
+    (?P<key>\w+)\s*=\s*                        # Keyword argument key
+    (?P<value>
+        ('[^']*'|"[^"]*"|\d+|True|False|None|[a-zA-Z_]\w*)
+    )
+)
+```
 После этого данный код можно вызвать следующим образом
 
 ```python
