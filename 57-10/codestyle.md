@@ -89,7 +89,7 @@
   def indent_right(some_string: str, width: int) -> str:
       return " " * (max(0, width - len(some_string))) + some_string
   ```
-- **Если в функции нет `return`, nо мы считаем, что возвращается `None`** (есть еще случаи с `NoReturn`, но это только когда функция никогда не заканчивает выполнение / всегда выбрасывает исключение).
+- **Если функция ничего не возвращает, то мы считаем, что возвращается `None`** (есть еще случаи с `NoReturn`, но это только когда функция никогда не заканчивает выполнение / всегда выбрасывает исключение).
   ```python
   def write_to_file(file_name: str, text: str) -> None:
       with open(file_name, w, encoding='utf-8') as some_file:
