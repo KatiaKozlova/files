@@ -86,4 +86,4 @@
 	- Заполненная [табличка](https://docs.google.com/spreadsheets/d/1LA2-dToEb3uJ5sVop_hBHZTwlmYJyqhJfKJuaDXfE5s/edit?usp=sharing);
 	- Тетрадка IPYNB с кодом, графиками и текстовыми блоками;
 	- Файл с вашим датасетом.
-- Ссылка на сдачу: TBA
+- Ссылка на сдачу: [Google Classroom](https://classroom.google.com/c/Njg1NjYwNjU3MjE0/a/NzI2NjE1MzY5Mzk0/details).
