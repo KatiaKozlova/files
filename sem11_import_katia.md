@@ -25,8 +25,8 @@ import random
 print(random.randint(0, 5))  # выводит случайное целое число между 0 и 5 включительно
 print(random.choice('abcdef'))  # выберает случайный элемент коллекции
 print(random.random())  # Выводит случайное число на полуинтервале [0, 1)
-
-
+```
+```
 2
 c
 0.9131300358342321
@@ -52,8 +52,8 @@ import math
 print(math.cos(0))
 print(math.asin(1))
 print(math.e)
-
-
+```
+```
 1.0
 1.5707963267948966
 2.718281828459045
@@ -67,8 +67,8 @@ print(math.e)
 import random, math
 
 print(math.sqrt(random.randint(0, 5)))
-
-
+```
+```
 2.23606797749979
 ```
 
@@ -79,8 +79,8 @@ import random
 import math
 
 print(math.sqrt(random.randint(0, 5)))
-
-
+```
+```
 2.0
 ```
 
@@ -93,8 +93,8 @@ from math import ceil, floor
 
 print(ceil(145.3))
 print(floor(145.6))
-
-
+```
+```
 146
 145
 ```
@@ -106,8 +106,8 @@ from math import *
 
 print(sqrt(144))
 print(pi)
-
-
+```
+```
 12.0
 3.141592653589793
 ```
@@ -124,8 +124,8 @@ print(pi)
 import math as m
 
 print(m.factorial(5))
-
-
+```
+```
 120
 ```
 
@@ -135,8 +135,8 @@ print(m.factorial(5))
 from math import factorial as fact
 
 print(fact(5))
-
-
+```
+```
 120
 ```
 
