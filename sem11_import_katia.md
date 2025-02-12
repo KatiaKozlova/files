@@ -224,6 +224,9 @@ from mymodule import my_favourite_number
 
 print(my_favourite_number)
 ```
+```
+13
+```
 
 Теперь должно стать чуть понятнее, почему мы можем не хотеть делать `from mymodule import *`...
 
