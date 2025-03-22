@@ -231,7 +231,7 @@ git log
 * `git init` $-$ создание репо
 
 ### Полезные ресурсы:
-* все, что вы найдете на [git-scm](https://git-scm.com/), например [туториал по гиту](https://git-scm.com/docs/gittutorial) или [книжка Pro Git](https://git-scm.com/book/en/v2) (есть на [русском]()https://git-scm.com/book/ru/v2)
+* все, что вы найдете на [git-scm](https://git-scm.com/), например [туториал по гиту](https://git-scm.com/docs/gittutorial) или [книжка Pro Git](https://git-scm.com/book/en/v2) (есть на [русском](https://git-scm.com/book/ru/v2))
 * [Git How To](https://githowto.com/) $-$ интерактивный туториал (тоже есть на [русском](https://githowto.com/ru), но в чуть более сжатом формате)
 
 # Гит для параллельной работы
